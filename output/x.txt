@@ -1,0 +1,48 @@
+drug|other_text|link
+X-Prep|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+X-Seb T Pearl|see Coal Tar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Xadago|see Safinamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029994/
+Xalatan|see Latanoprost |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010869/
+Xalkori|see Crizotinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009752/
+Xanax|see Alprazolam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008896/
+Xarelto|see Rivaroxaban |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012021/
+Xartemis XR|see Oxycodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011543/
+Xeljanz|see Tofacitinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014617/
+Xeloda|see Capecitabine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009427/
+Xenaderm|see Castor Oil/Peru Balsam/Trypsin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009483/
+Xenazine|see Tetrabenazine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012363/
+Xenical|see Orlistat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011510/
+Xeomin|see IncobotulinumtoxinA |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010689/
+Xerac AC|see Aluminum Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008905/
+Xerese|see Acyclovir/Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008824/
+Xermelo|see Telotristat Ethyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029997/
+Xgeva|see Denosumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009849/
+Xiaflex|see Collagenase)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000469/
+Xiaflex|see Collagenase, Clostridium histolyticum |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009722/
+Xibrom|see Bromfenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009328/
+Xifaxan|see Rifaximin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011995/
+Xigduo XR|see Dapagliflozin and Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023954/
+Xiidra|see Lifitegrast |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027930/
+Ximino|see Minocycline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001197/
+Ximino|see Minocycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014346/
+Xodol|see Hydrocodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Xofigo|see Radium Ra 223 Dichloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015578/
+Xolair|see Omalizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011491/
+Xolegel|see Ketoconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001018/
+Xolegel|see Ketoconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010827/
+Xopenex|see Levalbuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010895/
+Xryliderm|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+Xryliderm|see Lidocaine Patch |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010942/
+Xtampza ER|see Oxycodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001326/
+Xtampza ER|see Oxycodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011537/
+Xtampza ER|see Oxycodone, Slow Release |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011542/
+Xtandi|see Enzalutamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014329/
+Xtoro|see Finafloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024098/
+Xulane|see Ethinyl Estradiol/Norelgestromin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010216/
+Xultophy|see Insulin Degludec/Liraglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029482/
+Xuriden|see Uridine Triacetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027039/
+Xylon 10|see Ibuprofen/Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010656/
+Xyntha|see Antihemophilic Factor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009047/
+Xyrem|see Sodium Oxybate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012168/
+Xyzal|see Levocetirizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010908/
+Xyzal|see Meclizine, Buclizine, and Cyclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011055/

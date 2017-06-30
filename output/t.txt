@@ -1,0 +1,586 @@
+drug|other_text|link
+T.R.U.E. Test|see Skin Test Antigens, Multiple |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012142/
+TBC|see Castor Oil/Peru Balsam/Trypsin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009483/
+TL Gard Rx|see Folic Acid/Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010377/
+TPN Electrolytes|see Parenteral Electrolyte/Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011596/
+TPN Electrolytes II Multiple Electrolyte Additive|see Parenteral Electrolyte Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011593/
+Tachosil|see Fibrinogen and Thrombin, Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028322/
+Tachosil|see Fibrinogen/Thrombin, Human)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025440/
+Tachosil|see Fibrinogen/Thrombin, Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028323/
+Taclonex|see Betamethasone and Calcipotriene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009268/
+Tacrolimus||
+Tacrolimus|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012278/
+Tacrolimus|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012277/
+Tacrolimus|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012280/
+Tadalafil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012283/
+Tafinlar|see Dabrafenib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015546/
+Tafluprost|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012285/
+Tagamet HB|see Cimetidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000419/
+Tagamet HB|see Cimetidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009618/
+Tagitol V|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Tagitol V|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009207/
+Tagitol V|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029613/
+Tagrisso|see Osimertinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027276/
+Take Action|see Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001055/
+Take Action|see Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010919/
+Talc|Around the lungs)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012287/
+Taliglucerase Alfa||
+Taliglucerase Alfa|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012289/
+Taliglucerase alfa|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014359/
+Talimogene Laherparepvec|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027284/
+Taltz|see Ixekizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027555/
+Talwin|see Pentazocine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011653/
+Talwin NX|see Pentazocine/Naloxone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011657/
+Tambocor|see Flecainide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010310/
+Tamiflu|see Oseltamivir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011518/
+Tamoxifen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012290/
+Tamsulosin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012292/
+Tannate Pediatric|see Antihistamine/Decongestant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009064/
+Tanzeum|see Albiglutide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022459/
+Tanzeum|see Albiglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023945/
+Tanzeum|see Albiglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022557/
+Tapazole|see Methimazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011131/
+Tapentadol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012294/
+Tar Distillate|see Coal Tar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Tarceva|see Erlotinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010149/
+Targin|see Oxycodone and Naloxone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023572/
+Targretin|see Bexarotene)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000245/
+Targretin|see Bexarotene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009286/
+Targretin|see Bexarotene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009287/
+Taro-Desoximetasone|see Desoximetasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009868/
+Tarocort|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Tarocort|see Hydrocortisone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010604/
+Taron-Bc|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001529/
+Taron-Bc|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011900/
+Tasigna|see Nilotinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011413/
+Tasimelteon|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022005/
+Tavaborole|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023498/
+Tavist Allergy|see Clemastine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009647/
+Taxol|see Paclitaxel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011558/
+Taxotere|see Docetaxel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010002/
+Tazarotene|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012296/
+Tazicef|see Ceftazidime |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009515/
+Taztia XT|see Diltiazem)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000580/
+Taztia XT|see Diltiazem |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009954/
+Tbo-filgrastim|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018941/
+Tcis|see Fluocinonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010336/
+Tearisol|see Hypromellose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000912/
+Tearisol|see Hypromellose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010639/
+Tecentriq|see Atezolizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027525/
+Tecfidera|see Dimethyl Fumarate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015549/
+Technetium Tc 99m Albumin Aggregated|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012298/
+Technetium Tc 99m Disofenin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023998/
+Technetium Tc 99m Exametazime|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024001/
+Technetium Tc 99m Mebrofenin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024002/
+Technetium Tc 99m Medronate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012301/
+Technetium Tc 99m Mertiatide|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024005/
+Technetium Tc 99m Oxidronate|Injection route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024006/
+Technetium Tc 99m Pentetate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012303/
+Technetium Tc 99m Succimer|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024007/
+Technetium Tc 99m Sulfur Colloid||
+Technetium Tc 99m Sulfur Colloid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014361/
+Technetium Tc 99m Sulfur Colloid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014360/
+Technetium Tc 99m Tetrofosmin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024011/
+Technetium Tc 99m Tilmanocept|Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014613/
+Technivie|see Ombitasvir/Paritaprevir/Ritonavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027031/
+Tedizolid||
+Tedizolid|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023499/
+Tedizolid|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023500/
+Teduglutide|Subcutaneous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014614/
+Teflaro|see Ceftaroline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009512/
+Tegaserod|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012305/
+Tekturna|see Aliskiren |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008872/
+Tekturna HCT|see Aliskiren/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008880/
+Telaprevir|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012308/
+Telavancin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012309/
+Telbivudine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012311/
+Telithromycin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012313/
+Telmisartan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012315/
+Telmisartan/Amlodipine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012319/
+Telmisartan/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012320/
+Telotristat Ethyl|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029997/
+Temazepam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012321/
+Temovate|see Clobetasol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000440/
+Temovate|see Clobetasol Propionate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009664/
+Temozolomide|Temodar)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001758/
+Temozolomide|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012324/
+Temozolomide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012323/
+Temsirolimus|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012327/
+Tencon|see Butalbital/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009375/
+Tenecteplase|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012329/
+Tenex|see Guanfacine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010523/
+Teniposide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012331/
+Tenivac|see Diphtheria/Tetanus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009983/
+Tenofovir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012333/
+Tenofovir Alafenamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029487/
+Tenoretic 100|see Atenolol/Chlorthalidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009140/
+Tenormin|see Atenolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000171/
+Tenormin|see Atenolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009136/
+Tenormin|see Atenolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009135/
+Tenuate|see Diethylpropion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009933/
+Terazosin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012335/
+Terbinafine||
+Terbinafine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012337/
+Terbinafine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012338/
+Terbutaline||
+Terbutaline|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012342/
+Terbutaline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012341/
+Terconazole|Into the vagina) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012345/
+Teriflunomide|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014364/
+Teriparatide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012346/
+Tersi Foam|see Selenium Sulfide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012101/
+Tesamorelin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012348/
+Teslascan|see Mangafodipir Trisodium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011030/
+Tessalon Perles|see Benzonatate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009242/
+Testolactone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012350/
+Testosterone||
+Testosterone|Absorbed through the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012352/
+Testosterone|Between cheek and gum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012353/
+Testosterone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012355/
+Testosterone|Intramuscular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022111/
+Testosterone|Nasal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023334/
+Testosterone|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012356/
+Testred|see Methyltestosterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011177/
+Tetanus Immune Globulin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012359/
+Tetanus Toxoid|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012361/
+Tetrabenazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012363/
+Tetracaine||
+Tetracaine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012365/
+Tetracaine|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012366/
+Tetracaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012367/
+Tetracaine/Oxymetazoline|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027935/
+Tetracycline||
+Tetracycline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012370/
+Tetracycline|Mucous membrane, oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012372/
+Tetracycline|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012373/
+Tetracycline|Ophthalmic route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012374/
+Tetrahydrozoline||
+Tetrahydrozoline|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012376/
+Tetrahydrozoline|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012377/
+Tetrastarch|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012378/
+Tetterine|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Tetterine|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+Tev-Tropin|see Somatropin, E coli Derived |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012188/
+Teveten|see Eprosartan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010132/
+Teveten HCT|see Eprosartan/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010135/
+Texacort|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Thalidomide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012379/
+Thalitone|see Chlorthalidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009587/
+Thallous Chloride Tl 201|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012381/
+The Magic Bullet|see Laxatives, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010879/
+The Medicine Shoppe Sore Throat Lozenges|see Benzocaine/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009240/
+Theophylline||
+Theophylline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012383/
+Theophylline|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012384/
+Theophylline and Guaifenesin|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012386/
+Theophylline/Dextrose Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012388/
+Thera-Sal|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Theracys|see Bacillus of Calmette and Guerin Vaccine, Live |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009195/
+Theracys|see Bacillus of Calmette-Guerin Vaccine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013394/
+Theraflu Warming Relief Cold & Chest Congestion|see Acetaminophen/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008798/
+Theramycin Z|see Erythromycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000673/
+Theramycin Z|see Erythromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010157/
+Therapatch Warm|see Capsaicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Theratears|see Carboxymethylcellulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009463/
+Thermazene|see Silver Sulfadiazine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012120/
+Thiamine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012389/
+Thiamine|Vitamin B-1) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012391/
+Thiamine|Vitamin B1)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014656/
+Thiethylperazine|Torecan)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001789/
+Thiethylperazine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012393/
+Thiethylperazine|Oral route, Intramuscular route, Rectal route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012394/
+Thiethylperazine Maleate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012395/
+Thioguanine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012396/
+Thionex|see Lindane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010954/
+Thiopental|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012398/
+Thioridazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012399/
+Thiotepa|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012401/
+Thiothixene|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012402/
+Thorets|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Thorets|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Thrombate III|see Antithrombin III |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009072/
+Thrombin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012405/
+Thylox Acne Treatment|see Sulfur |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012257/
+Thyrel TRH|see Protirelin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011884/
+ThyroShield|see Potassium Iodide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011795/
+Thyroid|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012407/
+Thyroid Supplement|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012408/
+Thyrolar|see Liotrix |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010963/
+Thyrotropin Alfa|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012410/
+Tiagabine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012411/
+Ticagrelor|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012413/
+Ticalast|see Azelastine/Fluticasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009175/
+Ticar|see Penicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011640/
+Ticarcillin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012415/
+Ticarcillin and Clavulanate|Intravenous route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012416/
+Ticaspray|see Fluticasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000767/
+Ticaspray|see Fluticasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021965/
+Ticlopidine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012418/
+Tigecycline|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012420/
+Tiger Balm|see Camphor/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009419/
+Tikosyn|see Dofetilide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010007/
+Tiludronate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012422/
+Timolol||
+Timolol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012424/
+Timolol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012425/
+Timolol/Hydrochlorothiazide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012429/
+Timothy Grass Pollen Allergen Extract|Sublingual route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022578/
+Tinidazole|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012430/
+Tinzaparin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012432/
+Tioconazole|Topical route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012434/
+Tiopronin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012435/
+Tiotropium|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012437/
+Tiotropium and Olodaterol|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025436/
+Tipranavir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012439/
+Tirofiban|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012441/
+Tirosint|see Levothyroxine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001057/
+Tirosint|see Levothyroxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010926/
+Tisit|see Piperonyl Butoxide/Pyrethrum Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011752/
+Tivicay|see Dolutegravir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018919/
+Tivorbex|see Indomethacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000945/
+Tivorbex|see Indomethacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010703/
+Tizanidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012442/
+Tobramycin||
+Tobramycin|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012444/
+Tobramycin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012447/
+Tobramycin|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012448/
+Tobramycin and Dexamethasone|Ophthalmic route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012450/
+Tobramycin/Sodium Chloride Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012451/
+Tocilizumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012454/
+Today Sponge|see Nonoxynol 9 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011443/
+Tofacitinib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014617/
+Tofranil|see Imipramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010680/
+Tolak|see Fluorouracil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000757/
+Tolak|see Fluorouracil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010344/
+Tolazamide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012456/
+Tolbutamide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012458/
+Tolcapone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012460/
+Tolmetin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012462/
+Tolnaftate|Topical route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012464/
+Tolterodine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012465/
+Tolvaptan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012467/
+Top Care Miconazole 3|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011213/
+TopCare 24-Hour Fexofenadine Hydrochloride|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+TopCare Acid Reducer|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+TopCare Acid Reducer|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+TopCare All Day Allergy D|see Cetirizine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009536/
+TopCare Allergy|see Chlorpheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009578/
+TopCare ClearLax|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+TopCare Complete|see Antacid, Calcium and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009024/
+TopCare Heartburn Relief 150|see Ranitidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001556/
+TopCare Heartburn Relief 150|see Ranitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011947/
+TopCare Laxative|see Bisacodyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009297/
+TopCare Milk of Magnesia|see Magnesium Hydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011021/
+TopCare Nasal Four|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+TopCare Nasal Four|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011713/
+TopCare Omeprazole|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+TopCare Sleep Aid|see Doxylamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010044/
+TopCare Sore Throat Spray|see Phenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011700/
+TopCare Stay Awake|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+TopCare Stay Awake|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Topcare Children's Fever Reducer|see Acetaminophen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000015/
+Topcare Children's Fever Reducer|see Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008789/
+Topcare Cough & Sore Throat|see Acetaminophen/Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008796/
+Topcare Lansoprazole|see Lansoprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010860/
+Topicaine|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009236/
+Topiramate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012471/
+Toposar|see Etoposide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000703/
+Toposar|see Etoposide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010234/
+Topotecan||
+Topotecan|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012474/
+Topotecan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012473/
+Toprol XL|see Metoprolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001180/
+Toprol XL|see Metoprolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011186/
+Torecan|see Meclizine, Buclizine, and Cyclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011055/
+Toremifene||
+Toremifene|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012477/
+Toremifene Citrate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012478/
+Toronova II Suik|see Ketorolac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001020/
+Toronova II Suik|see Ketorolac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010833/
+Torsemide||
+Torsemide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012480/
+Torsemide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012479/
+Totect|see Dexrazoxane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009886/
+Toujeo|see Insulin Glargine, Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010731/
+Toviaz|see Fesoterodine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010292/
+Trabectedin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027285/
+Trac Tabs|see Atropine, Hyoscyamine, Methenamine, Methylene Blue, Phenyl Salicylate, and Benzoic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009154/
+Tracleer|see Bosentan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009316/
+Tradjenta|see Linagliptin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010948/
+Tramadol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012486/
+Tramadol/Acetaminophen|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012489/
+Trametinib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015586/
+Trancot|see Meprobamate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011095/
+Trandate|see Labetalol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001024/
+Trandate|see Labetalol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010844/
+Trandate|see Labetalol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010843/
+Trandolapril|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012490/
+Trandolapril/Verapamil|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012493/
+Tranexamic Acid||
+Tranexamic Acid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012495/
+Tranexamic acid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012494/
+Transderm Scop|see Scopolamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001627/
+Transderm Scop|see Scopolamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012088/
+Transderm-Nitro|see Nitroglycerin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001281/
+Transderm-Nitro|see Nitroglycerin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011437/
+Tranxene|see Clorazepate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009689/
+Tranylcypromine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012498/
+Trastuzumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012500/
+Travel Sickness|see Meclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011054/
+Travoprost|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012502/
+Trazodone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012504/
+Treanda|see Bendamustine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009228/
+Trecator|see Ethionamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010220/
+Treprostinil||
+Treprostinil|By breathing) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012506/
+Treprostinil|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012509/
+Treprostinil|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021977/
+Tresiba|see Insulin Degludec |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027267/
+Tretinoin||
+Tretinoin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012510/
+Tretinoin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012511/
+Tretten|see Factor XIII |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022566/
+Trexall|see Methotrexate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001158/
+Trexall|see Methotrexate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011139/
+Treximet|see Sumatriptan/Naproxen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012267/
+Trezix|see Acetaminophen, Caffeine, and Dihydrocodeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029998/
+Trezix|see Acetaminophen, Caffeine, and Dihydrocodeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029978/
+Trezix|see Acetaminophen/Caffeine/Dihydrocodeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029979/
+Tri-Estarylla|see Estradiol/Norgestimate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013575/
+Tri-Estarylla|see Ethinyl Estradiol/Norgestimate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010218/
+Tri-K|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011799/
+Tri-Luma|see Fluocinolone, Hydroquinone, and Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014578/
+Tri-Salts|see Electrolyte/Mineral Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010085/
+TriLyte w/Flavor Packs|see Polyethylene Glycol 3350, Sodium and Potassium Salts |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022004/
+Triamcinolone||
+Triamcinolone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Triamcinolone|For the teeth or gums)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012515/
+Triamcinolone|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012518/
+Triamcinolone|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012519/
+Triaminic Softchew Allergy Runny Nose & Congestion|see Chlorpheniramine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009581/
+Triamterene|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012521/
+Triamterene/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012524/
+Triazolam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012525/
+Tribenzor|see Olmesartan/Amlodipine/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011483/
+Trichophyton Mentagrophytes|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012527/
+Tricor|see Fenofibrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010274/
+Tricosal|see Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012066/
+Tridesilon|see Desonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009866/
+Trientine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012528/
+Trifluoperazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012531/
+Triflupromazine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012532/
+Trifluridine|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012533/
+Trifluridine/Tipiracil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027286/
+Trihexyphenidyl Hydrochloride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012536/
+Trileptal|see Oxcarbazepine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011528/
+Trilipix|see Fenofibric acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010276/
+Trimethobenzamide||
+Trimethobenzamide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012538/
+Trimethobenzamide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012537/
+Trimethoprim|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012541/
+Trimipramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015588/
+Trimox|see Amoxicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008968/
+Trintellix|see Vortioxetine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018946/
+Triostat|see Liothyronine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001064/
+Triostat|see Liothyronine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010960/
+Tripedia|see Diphtheria, Tetanus, and Acellular Pertussis Booster Vaccine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014708/
+Tripedia|see Diphtheria, Tetanus, and Acellular Pertussis Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009979/
+Triple Antibiotic|see Bacitracin/Neomycin/Polymyxin B |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009199/
+Triple Antibiotic|see Neomycin, Polymyxin B, and Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013395/
+Triple Antibiotic|see Neomycin, Polymyxin B, and Bacitracin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011377/
+Triple Therapy|see Clarithromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009645/
+Triple Therapy|see Lansoprazole/Amoxicillin/Clarithromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010862/
+Triptorelin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012547/
+Trisenox|see Arsenic Trioxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009108/
+Triumeq|see Abacavir, Dolutegravir, and Lamivudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023608/
+Trizivir|see Abacavir/Lamivudine/Zidovudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008770/
+Trolamine Salicylate|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012549/
+Tromethamine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012550/
+Tropicamide|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012551/
+Trospium|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012553/
+Troxyca ER|see Oxycodone/Naltrexone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028080/
+Trueplus Glucose|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Trueplus Glucose|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009897/
+Trulance|see Plecanatide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029620/
+Trulicity|see Dulaglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023609/
+Trumenba|see Meningococcal Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011080/
+Trusopt Ocumeter|see Dorzolamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010021/
+Truvada|see Emtricitabine/Tenofovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010097/
+Truxazole|see Sulfisoxazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012252/
+Trypan Blue|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012557/
+Tuberculin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012560/
+Tudorza Pressair|see Aclidinium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014308/
+TussiCaps|see Hydrocodone and Chlorpheniramine Polistirex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021869/
+Tussiclear DH|see Guaifenesin and Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024099/
+Tussiclear DH|see Guaifenesin/Hydrocodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013611/
+Tussigon|see Hydrocodone and Homatropine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029831/
+Tussigon|see Hydrocodone and Homatropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029825/
+Tussigon|see Hydrocodone/Homatropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029985/
+Tuzistra XR|see Codeine Polistirex/Chlorpheniramine Polistirex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009707/
+Twelve Resin-K|see Vitamin B-12 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012653/
+Twinject|see Epinephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000656/
+Twinject|see Epinephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010119/
+Twinrix|see Hepatitis A/Hepatitis B Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010552/
+Tybost|see Cobicistat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023952/
+Tykerb|see Lapatinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010865/
+Tylenol w/Codeine|see Acetaminophen and Codeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008790/
+Typhoid VI Polysaccharide Vaccine|Intramuscular route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012566/
+Typhoid Vaccine|Typhim Vi)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014183/
+Typhoid Vaccine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025637/
+Typhoid Vaccine, Inactivated|Subcutaneous route, Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012562/
+Typhoid Vaccine, Live|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012563/
+Tysabri|see Natalizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011353/

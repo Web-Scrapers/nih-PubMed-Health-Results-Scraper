@@ -1,0 +1,74 @@
+drug|other_text|link
+Q-Naftate|see Tolnaftate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012464/
+Q-Profen|see Ibuprofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000915/
+Q-Profen|see Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010648/
+QC Anti-Diarrheal|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+QC Miconazole Nitrate|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+QC Miconazole Nitrate|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+QNASL|see Beclomethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000206/
+QNASL|see Beclomethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009214/
+Qbrelis|see Lisinopril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010968/
+Qsymia|see Phentermine/Topiramate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014353/
+Qtern|see Saxagliptin/Dapagliflozin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029995/
+Quadracel|see Diphtheria/Tetanus/Acellular Pertussis/Polio Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009985/
+Quadramet|see Samarium Sm 153 Lexidronam Pentasodium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012077/
+Quadrapax|see Antimuscarinic Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009066/
+Qualisone|see Betamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000236/
+Qualisone|see Betamethasone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009275/
+Quality Choice 3 Day Vaginal|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011213/
+Quality Choice Acid Controller|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+Quality Choice Acid Controller|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Quality Choice Athlete's Foot|see Terbinafine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001765/
+Quality Choice Athlete's Foot|see Terbinafine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012338/
+Quality Choice Azo|see Phenazopyridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011688/
+Quality Choice Bacitracin|see Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000199/
+Quality Choice Bacitracin|see Bacitracin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009198/
+Quality Choice Children's Chewable Vitamins w/Iron|see Vitamin Combination with Iron, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Quality Choice Effervescent Pain Relief|see Aspirin Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009126/
+Quality Choice Effervescent Pain Relief|see Aspirin/Citric Acid/Sodium Bicarbonate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009129/
+Quality Choice Epsom Salt|see Magnesium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001100/
+Quality Choice Epsom Salt|see Magnesium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022568/
+Quality Choice Hydrogen Peroxide|see Hydrogen Peroxide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000894/
+Quality Choice Hydrogen Peroxide|see Hydrogen Peroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010610/
+Quality Choice Loratadine-D|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Quality Choice Magnesium Citrate|see Magnesium Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011020/
+Quality Choice Milk of Magnesia|see Magnesium Hydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011021/
+Quality Choice Mineral Oil|see Mineral Oil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011230/
+Quality Choice Omeprazole Magnesium|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+Quality Choice Suphedrine|see Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011888/
+Quality Choice Suphedrine PE|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Quality Choice Suphedrine PE|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011710/
+Quazepam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011907/
+Qudexy XR|see Topiramate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012471/
+Quelicin|see Succinylcholine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012226/
+Quenalog|see Nystatin/Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011461/
+Questran|see Cholestyramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009594/
+Quetiapine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011909/
+Quflora|see Multivitamins and Fluoride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011295/
+Quflora|see Vitamin/Fluoride Combination, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012666/
+Quibron-T|see Aminophylline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000084/
+Quibron-T|see Aminophylline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008937/
+Quibron-T|see Theophylline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001785/
+Quibron-T|see Theophylline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012383/
+QuilliChew ER|see Methylphenidate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001174/
+QuilliChew ER|see Methylphenidate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011170/
+Quinapril|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011911/
+Quinapril/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011914/
+Quinidine||
+Quinidine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011917/
+Quinidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011916/
+Quinine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011919/
+Quinupristin/Dalfopristin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011922/
+Quit Nicotine Gum - Mint|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Quit Nicotine Gum - Mint|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Quixin|see Levofloxacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001051/
+Quixin|see Levofloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010913/
+Qutenza|see Capsaicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Qvar|see Beclomethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009213/

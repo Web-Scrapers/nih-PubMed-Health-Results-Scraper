@@ -1,0 +1,10 @@
+drug|other_text|link
+YAZ|see Drospirenone and Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013544/
+YAZ|see Drospirenone/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010055/
+Yellow Fever Vaccine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012686/
+Yervoy|see Ipilimumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010769/
+Yodoxin|see Iodoquinol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010760/
+Yondelis|see Trabectedin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027285/
+Yosprala|see Aspirin/Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028316/
+Yuvafem|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Yuvafem|see Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010183/

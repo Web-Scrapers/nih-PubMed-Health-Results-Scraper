@@ -1,0 +1,29 @@
+drug|other_text|link
+J-Max|see Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010515/
+J-Tan PD|see Brompheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009332/
+JTT Physicians Kit|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+JTT Physicians Kit|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Jack & Jill Cough Syrup|see Ipecac Syrup |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010768/
+Jadelle|see Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001055/
+Jadelle|see Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029986/
+Jadenu|see Deferasirox |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009836/
+Jakafi|see Ruxolitinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012062/
+Jalyn|see Dutasteride/Tamsulosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010064/
+Jantoven|see Warfarin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001928/
+Jantoven|see Warfarin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012678/
+Janumet|see Sitagliptin/Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012140/
+Januvia|see Sitagliptin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012136/
+Japanese Encephalitis Virus Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027557/
+Jardiance|see Empagliflozin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023567/
+Jencycla|see Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011445/
+Jentadueto|see Linagliptin/Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010951/
+Jetrea|see Ocriplasmin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014595/
+Jevantique|see Ethinyl Estradiol/Norethindrone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010217/
+Jevantique Lo|see Estradiol/Norethindrone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013574/
+Jevtana|see Cabazitaxel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009388/
+Johnson's Baby First Touch Gift Set|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Jolivette|see Progestin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011857/
+Jublia|see Efinaconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023332/
+Juleber|see Desogestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009865/
+Juxtapid|see Lomitapide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014589/

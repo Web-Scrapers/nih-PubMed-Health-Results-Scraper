@@ -1,0 +1,71 @@
+drug|other_text|link
+U-Cort|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+U-Cort|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+UTI Relief|see Phenazopyridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011688/
+Uceris|see Budesonide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000272/
+Uceris|see Budesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009336/
+Uceris|see Budesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027529/
+Ulipristal|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012567/
+Uloric|see Febuxostat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010267/
+Ultane|see Sevoflurane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012112/
+Ultiva|see Remifentanil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011960/
+Ultra Mide|see Neomycin, Polymyxin B, and Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013395/
+Ultra Mide|see Neomycin, Polymyxin B, and Bacitracin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011377/
+Ultracaps|see Pancrelipase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011575/
+Ultracet|see Tramadol/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012489/
+Ultram|see Tramadol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012486/
+Ultramop|see Methoxsalen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001159/
+Ultramop|see Methoxsalen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011145/
+Ultravate|see Halobetasol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010533/
+Ultravate Pac|see Ammonium Lactate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008962/
+Ultravist|see Iopromide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014338/
+Umeclidinium|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022739/
+Umeclidinium and Vilanterol|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021875/
+Unasyn|see Ampicillin/Sulbactam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008988/
+Uni-Cenna|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+Uni-Tann D|see Antihistamine/Decongestant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009064/
+Uniphyl|see Theophylline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001785/
+Uniphyl|see Theophylline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012383/
+Uniretic|see Moexipril/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011260/
+Unisom|see Doxylamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010044/
+Unithroid|see Levothyroxine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001057/
+Unithroid|see Levothyroxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010926/
+Unithroid|see Thyroid Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012408/
+Unituxin|see Dinutuximab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025238/
+Univasc|see Moexipril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011257/
+Unoprostone|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012570/
+Up & Up Bismuth - Regular Strength|see Bismuth Subsalicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009300/
+Up & Up Calcium Antacid Extra Strength - Assorted Berries|see Calcium Supplement)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000302/
+Up & Up Calcium Antacid Extra Strength - Assorted Berries|see Calcium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009415/
+UpSpringbaby Iron|see Vitamin Combination with Iron, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Uptravi|see Selexipag |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027280/
+Urasal|see Methenamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011129/
+Urea||
+Urea|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012572/
+Urea|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Urecholine|see Bethanechol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000243/
+Urecholine|see Bethanechol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009282/
+Urecholine|see Bethanechol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009283/
+Uridine Triacetate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027039/
+Urised|see Atropine, Hyoscyamine, Methenamine, Methylene Blue, Phenyl Salicylate, and Benzoic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009154/
+Urispas|see Flavoxate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010308/
+Uro-Mag|see Magnesium Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011022/
+Urocit-K|see Potassium Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011793/
+Urocit-K 10|see Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009641/
+Urocit-K 10|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011799/
+Urofollitropin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012575/
+Uroxatral|see Alfuzosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008866/
+Ursodiol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012579/
+Ustekinumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012581/
+Utibron Neohaler|see Indacaterol/Glycopyrrolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027264/
+Uvadex|see Methoxsalen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011144/

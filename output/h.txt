@@ -1,0 +1,236 @@
+drug|other_text|link
+H-Chlor 12|see Sodium Hypochlorite |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012159/
+H.P. Acthar|see Corticotropin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009747/
+HAD|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+HAD|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Habitrol|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Habitrol|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011404/
+Haemophilus B Conjugate Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010528/
+Haemophilus B Conjugate Vaccine/Hepatitis B Vaccine Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010530/
+Haemophilus B Polysaccharide Vaccine|Intramuscular route, Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010531/
+Haemophilus B Vaccine||
+Hair Regrowth Treatment|see Minoxidil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001200/
+Hair Regrowth Treatment|see Minoxidil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011238/
+Halaven|see Eribulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010147/
+Halcinonide|Topical application route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010532/
+Halcion|see Triazolam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012525/
+Halfprin|see Aspirin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000168/
+Halfprin|see Aspirin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025714/
+Halls|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Halobetasol|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010533/
+Halofantrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010535/
+Haloperidol||
+Haloperidol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010538/
+Haloperidol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010537/
+Haltran|see Ibuprofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000915/
+Haltran|see Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010648/
+Harvoni|see Ledipasvir and Sofosbuvir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023971/
+Health Mart Anti-Diarrheal|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Health Mart Fexofenadine HCl|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Health Mart Magnesium Citrate|see Magnesium Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011020/
+Health Mart Milk Of Magnesia|see Magnesium Hydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011021/
+Health Mart Nicotine Polacrilex|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Health Mart Stomach Relief|see Bismuth Subsalicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009300/
+Health Mart Throat Spray|see Phenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011700/
+Health Mart Triple Antibiotic Ointment|see Bacitracin/Neomycin/Polymyxin B |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009199/
+Health Mart Triple Antibiotic Ointment|see Neomycin, Polymyxin B, and Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013395/
+Healthylax Polyethylene Glycol 3350|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+Heartburn Relief|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+Heartburn Relief|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Heartburn Treatment 24 Hour|see Lansoprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010860/
+Heather|see Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011445/
+Hecoria|see Tacrolimus)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001735/
+Hecoria|see Tacrolimus |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012277/
+Hectorol|see Doxercalciferol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000619/
+Hectorol|see Doxercalciferol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010034/
+Hectorol|see Doxercalciferol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010033/
+Hectorol|see Vitamin D)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001921/
+Hectorol|see Vitamin D and Related Compounds |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012662/
+Helidac|see Bismuth Subsalicylate/Metronidazole/Tetracycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009303/
+Helixate FS|see Antihemophilic Factor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009047/
+Hemabate|see Carboprost Tromethamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009462/
+Hemangeol|see Propranolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001511/
+Hemangeol|see Propranolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011873/
+Hematinic With Folic Acid|see Vitamin B with Iron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012652/
+Hematopoietic Progenitor Cells, Cord Blood|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015558/
+Hemin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010544/
+Hemocyte|see Iron Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010785/
+Hemorrodil|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Heparin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010545/
+Hepatitis A Vaccine, Inactivated|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010551/
+Hepatitis A/Hepatitis B Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010552/
+Hepatitis B Immune Globulin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010553/
+Hepatitis B Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010555/
+Hepatolite|see Technetium Tc 99m Disofenin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023998/
+Hepsera|see Adefovir Dipivoxil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008832/
+Heptovir|see Lamivudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010852/
+Herceptin|see Trastuzumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012500/
+Hermes No. 8|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+Hetastarch|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010557/
+Hetlioz|see Tasimelteon |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022005/
+Hexachlorophene|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010558/
+Hexalen|see Altretamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008903/
+Hexaminolevulinate|Inside the bladder)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010559/
+Hibiclens|see Chlorhexidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000381/
+Hibiclens|see Chlorhexidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009564/
+Hiprex|see Methenamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011129/
+Histamine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010561/
+Histex CT|see Carbinoxamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009450/
+Histrelin|Implant)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010564/
+Hizentra|see Immune Globulin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000931/
+Hizentra|see Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Hizentra|see Immune Globulin Subcutaneous |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010686/
+Homatropaire|see Atropine, Homatropine, and Scopolamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009153/
+Horizant|see Gabapentin Enacarbil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023963/
+House Dust Mite Allergen Extract|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029984/
+HumaLOG KwikPen|see Insulin Lispro)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000967/
+HumaLOG KwikPen|see Insulin Lispro |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010736/
+Humalog Mix 50/50|see Insulin Lispro Protamine/Insulin Lispro |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010739/
+Human Papillomavirus Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025620/
+Humate-P|see Antihemophilic Factor VIII/von Willebrand Factor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009052/
+Humatin|see Paromomycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011604/
+Humatrope|see Somatropin, E coli Derived |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012188/
+Humira|see Adalimumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008825/
+HumuLIN N|NPH) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027553/
+HumuLIN R Concentrated U-500 KwikPen|see Insulin Regular |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027554/
+HyQvia|see Immune Globulin and Hyaluronidase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023612/
+Hyaluronate||
+Hyaluronate Sodium|Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010573/
+Hyaluronic Acid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010575/
+Hyaluronic Acid|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010576/
+Hyaluronidase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010577/
+Hycamtin|see Topotecan)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001832/
+Hycamtin|see Topotecan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012474/
+Hycamtin|see Topotecan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012473/
+Hydergine|see Ergoloid Mesylates |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010139/
+Hydralazine||
+Hydralazine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010580/
+Hydralazine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022003/
+Hydralazine/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010583/
+Hydrisalic|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Hydro 35|see Urea)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001880/
+Hydro 35|see Urea |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Hydro-Tussin HG|see Guaifenesin and Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024099/
+Hydro-Tussin HG|see Guaifenesin/Hydrocodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013611/
+Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010584/
+Hydrocodone|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021841/
+Hydrocodone and Chlorpheniramine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014585/
+Hydrocodone and Chlorpheniramine Polistirex|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021869/
+Hydrocodone and Homatropine|Hycodan)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029831/
+Hydrocodone and Homatropine|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029825/
+Hydrocodone/Acetaminophen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Hydrocodone/Chlorpheniramine/Pseudoephedrine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010591/
+Hydrocodone/Homatropine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029985/
+Hydrocodone/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010593/
+Hydrocodone/Pseudoephedrine/Guaifenesin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027021/
+Hydrocortisone||
+Hydrocortisone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010595/
+Hydrocortisone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010594/
+Hydrocortisone|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010598/
+Hydrocortisone|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Hydrocortisone Butyrate|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010602/
+Hydrocortisone Enema|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014333/
+Hydrocortisone Probutate|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010603/
+Hydrocortisone Valerate|Topical application route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010604/
+Hydrocortisone and Iodoquinol|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024619/
+Hydrocortisone/Lidocaine|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010606/
+Hydrocortisone/Lidocaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010605/
+Hydrocortisone/Pramoxine||
+Hydrocortisone/Pramoxine|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010607/
+Hydrocortisone/Pramoxine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014586/
+Hydrogen Peroxide||
+Hydrogen Peroxide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010609/
+Hydrogen Peroxide|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010610/
+Hydromorphone||
+Hydromorphone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010613/
+Hydromorphone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010611/
+Hydroquinone|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010617/
+Hydroxocobalamin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010618/
+Hydroxyamphetamine/Tropicamide|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010620/
+Hydroxychloroquine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010621/
+Hydroxyprogesterone|Hylutin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000901/
+Hydroxyprogesterone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010624/
+Hydroxyprogesterone|Intramuscular route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010623/
+Hydroxypropyl Cellulose|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010625/
+Hydroxyurea|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010627/
+Hydroxyzine||
+Hydroxyzine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023966/
+Hydroxyzine|Intramuscular route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027550/
+Hylan G-F 20|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010632/
+Hylan Polymers A and B|Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010633/
+Hylorel|see Guanadrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010519/
+Hyoscyamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010634/
+Hypaque Meglumine|see Diatrizoate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025612/
+HyperRHO S/D|see Rho|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011977/
+HyperSal|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+HyperSal|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012149/
+HyperTET S/D|see Tetanus Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012359/
+Hypercare|see Aluminum Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008905/
+Hyperlite|see Parenteral Electrolyte/Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011596/
+Hypromellose||
+Hypromellose|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010639/
+Hypromellose|Intraocular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010640/
+Hyskon|see Dextran 70/Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009888/
+Hytrin|see Terazosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012335/
+Hyzaar|see Losartan/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010996/

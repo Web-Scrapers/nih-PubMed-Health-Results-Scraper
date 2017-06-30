@@ -1,0 +1,32 @@
+drug|other_text|link
+WAL-FEX ALLERGY|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+WP Thyroid|see Thyroid Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012408/
+Wal-Fex D|see Fexofenadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010297/
+Wal-Itin D|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Warfarin||
+Warfarin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012679/
+Warfarin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012678/
+Wart-Off Maximum Strength|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Water, Sterile|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012682/
+Welchol|see Colesevelam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009712/
+Wellbutrin|see Bupropion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009361/
+Wesmycin|see Tetracycline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001778/
+Wesmycin|see Tetracycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012370/
+Westcort|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Westcort|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Westcort|see Hydrocortisone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010604/
+Westhroid|see Thyroid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012407/
+Whytederm SurgiPak|see Chlorhexidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000381/
+Whytederm SurgiPak|see Chlorhexidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009564/
+Whytederm SurgiPak|see Mupirocin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001225/
+Whytederm SurgiPak|see Mupirocin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011301/
+Whytederm TDPak|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+Whytederm TDPak|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012519/
+Wilate|see Antihemophilic Factor VIII/von Willebrand Factor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009052/
+Woman's Wellbeing UTI Relief|see Phenazopyridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011688/
+Women's Rogaine|see Minoxidil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001200/
+Women's Rogaine|see Minoxidil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011238/
+Wytensin|see Guanabenz |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010517/

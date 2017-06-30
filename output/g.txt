@@ -1,0 +1,318 @@
+drug|other_text|link
+G-Supress DX|see Dextromethorphan/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009895/
+GNC Calcium/Magnesium with Vitamin D|see Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011019/
+GNC Niacin 250|see Niacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011393/
+GRx Bacitracin Zinc|see Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000199/
+GRx Bacitracin Zinc|see Bacitracin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009198/
+GRx HiCort 25|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+GRx HiCort 25|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010598/
+Gabapentin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010419/
+Gabapentin Enacarbil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023963/
+Gabazolamine-0.5|see Alprazolam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008896/
+Gabitril|see Tiagabine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012411/
+Gablofen|see Baclofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000200/
+Gablofen|see Baclofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009201/
+Gadobenate|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010421/
+Gadobenate Dimeglumine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010422/
+Gadobutrol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010423/
+Gadodiamide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010425/
+Gadofosveset|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010428/
+Gadopentetate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010429/
+Gadoterate|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014581/
+Gadoteridol|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010431/
+Gadoversetamide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010433/
+Gadoxetate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010434/
+Galantamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010436/
+Gallium Citrate Ga 67|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010438/
+Gallium Ga 68 Dotatate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027865/
+Galsulfase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010442/
+Galzin|see Zinc Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012706/
+Galzin|see Zinc Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012710/
+Galzin|see Zinc Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012711/
+GamaSTAN S/D|see Immune Globulin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000931/
+GamaSTAN S/D|see Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Gamma E Plus|see Vitamin E |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012663/
+Ganciclovir||
+Ganciclovir|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010445/
+Ganciclovir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010444/
+Ganciclovir|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010446/
+Ganciclovir Implant|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014332/
+Ganirelix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010450/
+Gantrisin Pediatric|see Sulfisoxazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012252/
+Gardasil|see Human Papillomavirus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025620/
+Gas Aid Maximum Strength|see Simethicone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012122/
+Gas-X with Maalox|see Antacid, Calcium Containing |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009025/
+Gastrocrom|see Cromolyn)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000484/
+Gastrocrom|see Cromolyn |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009755/
+Gastrografin|see Diatrizoate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025610/
+Gatifloxacin|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010453/
+Gattex|see Teduglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014614/
+GaviLAX|see Laxative, Hyperosmotic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010874/
+GaviLAX|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+GaviLyte-C with Flavor Pack|see Polyethylene Glycol 3350/Electrolytes |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011781/
+GaviLyte-N with Flavor Pack|see Polyethylene Glycol 3350, Sodium and Potassium Salts |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022004/
+Gaviscon Extra Strength|see Antacid, Aluminum and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009022/
+Gazyva|see Obinutuzumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021871/
+Gefitinib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027019/
+Gel-One|see Hyaluronate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000878/
+Gel-One|see Hyaluronate Sodium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010573/
+Gel-One|see Hyaluronic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010575/
+Gel-Unix 10|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Gel-Unix 10|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029613/
+Gelnique|see Oxybutynin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001325/
+Gelnique|see Oxybutynin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011533/
+Gemcitabine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010455/
+Gemfibrozil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010457/
+Gemifloxacin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010459/
+Gen-Amoxicillin|see Amoxicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008968/
+Gen-Amoxicillin|see Penicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011640/
+Gen-Budesonide Aq|see Budesonide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000272/
+Gen-Budesonide Aq|see Budesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009338/
+Gen-Minoxidol|see Minoxidil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001200/
+Gen-Minoxidol|see Minoxidil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011238/
+Gen-Nitro|see Nitroglycerin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001281/
+Gen-Nitro|see Nitroglycerin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011434/
+Gen-Xene|see Clorazepate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009689/
+GenTeal PM|see Eye Lubricant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010246/
+Genacote|see Aspirin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000168/
+Genacote|see Aspirin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025714/
+Genadur|see Biotin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009294/
+Genaphed|see Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011888/
+Genasal|see Oxymetazoline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001331/
+Genasal|see Oxymetazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011546/
+Generlac|see Lactulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010851/
+Gengraf|see Cyclosporine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000494/
+Gengraf|see Cyclosporine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009777/
+Genotropin|see Somatropin, E coli Derived |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012188/
+Genpril|see Ibuprofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000915/
+Genpril|see Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010648/
+Gentamicin|Garamycin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000815/
+Gentamicin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010463/
+Gentamicin|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010464/
+Gentamicin|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010465/
+Gentamicin/Sodium Chloride Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010469/
+Genteal|see Hypromellose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000912/
+Genteal|see Hypromellose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010639/
+Gentian Violet||
+Gentian Violet|Topical route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010470/
+Gentian Violet|Vaginal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010471/
+Gentle Laxative|see Bisacodyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009297/
+Gentle Laxative|see Laxative, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010875/
+Gentle Laxative|see Laxatives, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010879/
+Genvoya|see Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Alafenamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027258/
+Geodon|see Ziprasidone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001945/
+Geodon|see Ziprasidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012713/
+Geodon|see Ziprasidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012712/
+Geone|see Butalbital/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009375/
+Geone|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Gerber Good Start Water|see Electrolyte Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010084/
+Geref|see Sermorelin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012105/
+Geri-Hydrolac|see Ammonium Lactate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008962/
+Geri-Lanta|see Aluminum, Magnesium, and Simethicone Antacid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025226/
+Gets-It Corn/Callus Remover|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Gianvi|see Drospirenone and Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013544/
+Gianvi|see Drospirenone/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010055/
+Giazo|see Balsalazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009204/
+Giazo|see Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012066/
+Gildess 1.5/30|see Estradiol/Norethindrone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013574/
+Gildess 1.5/30|see Ethinyl Estradiol/Norethindrone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010217/
+Gilenya|see Fingolimod |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010304/
+Gilotrif|see Afatinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015524/
+Glassia|see Alpha-1 Proteinase Inhibitor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008894/
+Glassia|see Alpha-1 Proteinase Inhibitor Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008895/
+Glatiramer|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010472/
+Gleevec|see Imatinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010674/
+Gleostine|see Lomustine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010977/
+Gliadel|see Carmustine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000333/
+Gliadel|see Carmustine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009473/
+Glimepiride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010474/
+Glipizide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010476/
+Glipizide/Metformin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010479/
+Glu-K|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011799/
+Glucagon|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010481/
+Glucarpidase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010482/
+Glucodex 100 G|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Glucodex 100 G|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029615/
+Glucophage|see Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011121/
+Glucose Tablets|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009897/
+Gludef|see Fludeoxyglucose F 18 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010326/
+Gly-Cort|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Glyburide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010485/
+Glyburide/Metformin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010488/
+Glycerin||
+Glycerin|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010490/
+Glycerin|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010489/
+Glycerol Phenylbutyrate|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014582/
+Glycopyrrolate||
+Glycopyrrolate|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027262/
+Glycopyrrolate|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010493/
+Glycopyrrolate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010492/
+Glycopyrrolate/Formoterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027549/
+Glydo|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+Glydo|see Lidocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010935/
+Glyset|see Miglitol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011223/
+Glyxambi|see Empagliflozin and Linagliptin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024616/
+Gold Bond Medicated Body Powder|see Menthol and Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024101/
+Golden Sunshine Herbal|see Menthol/Methyl Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011085/
+Golimumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010498/
+Gonadorelin|Intravenous route, Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010500/
+Gonal-F|see Follitropin Alfa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010379/
+Gonal-F RFF|see Follitropin Beta |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010381/
+Good Neighbor Allergy & Congestion Relief 24 Hour|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Good Neighbor Coenzyme Q-10|see Coenzyme Q10 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009708/
+Good Neighbor Lice Solution Kit|see Piperonyl Butoxide/Pyrethrum Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011752/
+Good Neighbor Loratadine|see Loratadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010986/
+Good Neighbor Motion Sickness Relief|see Meclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011054/
+Good Neighbor Pharmacy Acid Control 150|see Ranitidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001556/
+Good Neighbor Pharmacy Acid Control 150|see Ranitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011947/
+Good Neighbor Pharmacy Acid Reducer|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+Good Neighbor Pharmacy Acid Reducer|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Good Neighbor Pharmacy All Day Allergy|see Cetirizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009534/
+Good Neighbor Pharmacy All Day Allergy-D|see Cetirizine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009536/
+Good Neighbor Pharmacy All Day Pain Relief|see Naproxen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011337/
+Good Neighbor Pharmacy Allergy Relief|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Good Neighbor Pharmacy Animal Shapes with Iron|see Vitamin Combination with Iron, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Good Neighbor Pharmacy Anti-Diarrheal|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Good Neighbor Pharmacy Anti-Nausea|see Dextrose/Fructose/Phosphoric Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009902/
+Good Neighbor Pharmacy Arthricream|see Trolamine Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012549/
+Good Neighbor Pharmacy Chest Rub|see Camphor/Eucalyptus Oil/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009418/
+Good Neighbor Pharmacy Complete|see Antacid, Calcium and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009024/
+Good Neighbor Pharmacy Cough DM ER|see Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009892/
+Good Neighbor Pharmacy Cough Drops|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Good Neighbor Pharmacy Diaper Rash Creamy|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Good Neighbor Pharmacy Docusate Calcium|see Laxative, Stool Softeners |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010877/
+Good Neighbor Pharmacy Ear Drops|see Carbamide Peroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009441/
+Good Neighbor Pharmacy Eye Drops|see Tetrahydrozoline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001781/
+Good Neighbor Pharmacy Eye Drops|see Tetrahydrozoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012376/
+Good Neighbor Pharmacy Eye Itch|see Ketotifen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001021/
+Good Neighbor Pharmacy Eye Itch|see Ketotifen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Good Neighbor Pharmacy Glucosamine Chondroitin Complex|see Chondroitin Sulfate/Glucosamine Hydrochloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009599/
+Good Neighbor Pharmacy Great Taste Vitamin C|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000164/
+Good Neighbor Pharmacy Great Taste Vitamin C|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009115/
+Good Neighbor Pharmacy Hydrogen Peroxide|see Hydrogen Peroxide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000894/
+Good Neighbor Pharmacy Hydrogen Peroxide|see Hydrogen Peroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010610/
+Good Neighbor Pharmacy K-Pec|see Bismuth Subsalicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009300/
+Good Neighbor Pharmacy Lice Treatment|see Permethrin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011682/
+Good Neighbor Pharmacy Magnesium Citrate|see Magnesium Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011020/
+Good Neighbor Pharmacy Melatonin|see Melatonin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011068/
+Good Neighbor Pharmacy Miconazole 1|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Good Neighbor Pharmacy Miconazole 1|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011213/
+Good Neighbor Pharmacy Milk of Magnesia|see Magnesium Hydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011021/
+Good Neighbor Pharmacy Nasal Decongestant PE|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Good Neighbor Pharmacy Nasal Decongestant PE|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011710/
+Good Neighbor Pharmacy Nasal Moisturizing Spray|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+Good Neighbor Pharmacy Nasal Moisturizing Spray|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025265/
+Good Neighbor Pharmacy Nicotine|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Good Neighbor Pharmacy Nicotine|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Good Neighbor Pharmacy Omeprazole|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+Good Neighbor Pharmacy Sore Throat Spray|see Phenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011700/
+Good Neighbor Pharmacy Stool Softener & Laxative|see Laxative, Stimulant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010876/
+Good Neighbor Pharmacy Terbinafine Hydrochloride|see Terbinafine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001765/
+Good Neighbor Pharmacy Terbinafine Hydrochloride|see Terbinafine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012338/
+Good Neighbor Pharmacy Vit B50 Balanced B-Complex|see Vitamin B Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012651/
+Good Neighbor Pharmacy Vitamin B12|see Vitamin B-12 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012653/
+Good Sense Dayhist Allergy|see Clemastine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009647/
+Good Sense Epsom Salt|see Magnesium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001100/
+Good Sense Epsom Salt|see Magnesium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022568/
+Good Sense Itch Relief|see Diphenhydramine/Zinc |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009969/
+Good Sense Lubricating Plus|see Carboxymethylcellulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009463/
+Good Sense Mineral Oil|see Mineral Oil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011230/
+Good Sense Nasal Four|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011713/
+Good Sense Oral Pain Relief|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Good Sense Oral Pain Relief|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Good Sense Sinus Congestion & Pain Severe|see Acetaminophen/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008798/
+Good Sense Sore Throat|see Benzocaine/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009240/
+Good Sense Stay Awake|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Good Sense Stay Awake|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Good Sense Triple Antibiotic|see Bacitracin/Neomycin/Polymyxin B |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009199/
+Good Sense Triple Antibiotic|see Neomycin, Polymyxin B, and Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013395/
+GoodNeighborPharmacy Natural Calcium/Magnesium/Zinc|see Mineral Supplement Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011232/
+Goody's Fast Pain Relief|see Aspirin Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009126/
+Gordon's Urea|see Urea)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001880/
+Gordon's Urea|see Urea |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Goserelin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010501/
+Graft Skin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010503/
+Granisetron|Granisetron Hydrochloride Novaplus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000836/
+Granisetron|Absorbed through the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010504/
+Granisetron|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010506/
+Granisetron|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010505/
+Granix|see Tbo-filgrastim |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018941/
+Grastek|see Timothy Grass Pollen Allergen Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022578/
+Griseofulvin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010509/
+Growth Hormone|Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010511/
+Guaifenesin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010512/
+Guaifenesin and Hydrocodone|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024099/
+Guaifenesin/Hydrocodone||
+Guaifenesin/Hydrocodone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010514/
+Guaifenesin/Phenylephrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010515/
+Guaifenesin/Potassium Guaiacolsulfonate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010516/
+Guanabenz|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010517/
+Guanadrel|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010519/
+Guanethidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010521/
+Guanfacine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010523/
+Guanidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010525/
+Gyne Cure|see Tioconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012434/
+Gyne-Lotrimin|see Clotrimazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000453/
+Gyne-Lotrimin|see Clotrimazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009694/
+Gynodiol|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Gynodiol|see Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010179/
+Gynodiol|see Estrogen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000685/
+Gynodiol|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010194/
+Gynol II|see Nonoxynol 9 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011443/

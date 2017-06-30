@@ -1,0 +1,411 @@
+drug|other_text|link
+RE-Azo|see Phenazopyridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011688/
+RE-PB Hyos|see Belladonna Alkaloids and Phenobarbital |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014315/
+RRB Pak|see Betamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000236/
+RRB Pak|see Betamethasone Dipropionate, Augmented |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009272/
+RX-Specimen Collection Kit|see Furosemide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000793/
+RX-Specimen Collection Kit|see Furosemide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010414/
+Rabeprazole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011923/
+Rabies Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011927/
+Radiogardase|see Prussian Blue |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011887/
+Radiostol Forte|see Vitamin D)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001921/
+Radiostol Forte|see Vitamin D and Related Compounds |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012662/
+Radium Ra 223 Dichloride|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015578/
+Ragwitek|see Short Ragweed Pollen Allergen Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022575/
+Rajani|see Drospirenone/Ethinyl Estradiol/Levomefolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010056/
+Rajani|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Rajani|see L-Methylfolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015563/
+Raloxifene|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011936/
+Raltegravir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011938/
+Ramelteon|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011941/
+Ramipril|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011943/
+Ramucirumab|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022574/
+Ranexa|see Meclizine, Buclizine, and Cyclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011055/
+Ranibizumab|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014354/
+Ranitidine||
+Ranitidine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011948/
+Ranitidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011947/
+Ranolazine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011950/
+Rapaflo|see Silodosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012118/
+Rapamune|see Sirolimus |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012134/
+RapidPaq Tabradol|see Cyclobenzaprine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009767/
+Rapiflux|see Fluoxetine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010346/
+Rapivab|see Peramivir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024106/
+Raplixa|see Fibrin Sealant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025617/
+Raplixa|see Fibrinogen and Thrombin, Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028322/
+Raplixa|see Fibrinogen/Thrombin, Human)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025440/
+Rasagiline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011952/
+Rasburicase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011954/
+Rasuvo|see Methotrexate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001158/
+Rasuvo|see Methotrexate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011140/
+Ratio-Amoxi Clav 250f|see Amoxicillin and Clavulanate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013335/
+Ratio-Amoxi Clav 250f|see Amoxicillin and Clavulanate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008970/
+Ratio-Clobetasol|see Clobetasol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000440/
+Ratio-Clobetasol|see Clobetasol Propionate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009664/
+Ratio-Haloperidol|see Haloperidol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000855/
+Ratio-Haloperidol|see Haloperidol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010537/
+Ratio-Indomethacin|see Indomethacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000945/
+Ratio-Indomethacin|see Indomethacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028078/
+Ratio-Ipra Sal Udv|see Ipratropium/Albuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010776/
+Ratio-Ipratropium|see Ipratropium)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000991/
+Ratio-Ipratropium|see Ipratropium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010772/
+Ratio-Ketorolac|see Ketorolac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001020/
+Ratio-Ketorolac|see Ketorolac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010834/
+Ratio-Levobunolol|see Levobunolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010903/
+Rauwolfia Alkaloid|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011956/
+Ravicti|see Glycerol Phenylbutyrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014582/
+Raxibacumab|Intravenous route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014607/
+Rayaldee|see Calcifediol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009399/
+Rayos|see Prednisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011828/
+Razadyne|see Galantamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010436/
+React|see Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001055/
+React|see Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010919/
+Readi-Cat 2|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Readi-Cat 2|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009207/
+Readi-Cat 2|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029613/
+ReadySharp Betamethasone|see Betamethasone Sodium Phosphate/Betamethasone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009274/
+ReadySharp Dexamethasone|see Dexamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000542/
+ReadySharp Dexamethasone|see Dexamethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009873/
+ReadySharp Ketorolac|see Ketorolac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010833/
+Rebif|see Interferon Beta-1a |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010746/
+Reclast|see Zoledronic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012716/
+Reclipsen|see Desogestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009865/
+Recombivax HB|see Hepatitis B Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010555/
+Recort Plus|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Recort Plus|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Recothrom|see Thrombin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012405/
+Rectacort-HC|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010598/
+Rectiv|see Nitroglycerin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001281/
+Rectiv|see Nitroglycerin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011436/
+Red Cross Canker Sore|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Red Cross Canker Sore|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Reese's Pinworm Medicine|see Pyrantel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011891/
+Refissa|see Tretinoin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001846/
+Refissa|see Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012511/
+Refresh Celluvisc|see Carboxymethylcellulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009463/
+Refresh Eye Itch Relief|see Ketotifen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001021/
+Refresh Eye Itch Relief|see Ketotifen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Regadenoson|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011958/
+Regimex|see Amphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008972/
+Regimex|see Benzphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009248/
+Regitine|see Phentolamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011709/
+Reglan|see Metoclopramide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001178/
+Reglan|see Metoclopramide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011182/
+Reglan|see Metoclopramide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011180/
+Regonol|see Pyridostigmine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011896/
+Regorafenib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014355/
+Regranex|see Becaplermin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009211/
+Relador Pak|see Lidocaine and Prilocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013671/
+Relador Pak|see Lidocaine/Prilocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010945/
+Relafen|see Nabumetone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011314/
+Relagesic|see Acetaminophen/Phenyltoloxamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008800/
+Relenza|see Zanamivir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012696/
+ReliOn Glucose Drink|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+ReliOn Glucose Drink|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009897/
+ReliOn Ventolin HFA|see Albuterol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000044/
+ReliOn Ventolin HFA|see Albuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008848/
+Relion Novolin 70/30|see Insulin NPH/Regular |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010740/
+Relion Novolin R|see Insulin Regular |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027554/
+Relistor|see Methylnaltrexone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011167/
+Relistor|see Methylnaltrexone Bromide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027933/
+Relpax|see Eletriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010086/
+Remeron|see Mirtazapine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011242/
+Remicade|see Infliximab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010708/
+Remifentanil|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011960/
+Remodulin|see Treprostinil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001845/
+Remodulin|see Treprostinil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012509/
+Remular-S|see Chlorzoxazone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009589/
+Renagel|see Sevelamer |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012110/
+Renal Vitamin|see Vitamin B/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012655/
+Reno-30|see Diatrizoate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025612/
+Reopro|see Abciximab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008773/
+Repaglinide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011962/
+Repaglinide/Metformin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011965/
+Repan|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Repatha|see Evolocumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027016/
+Repliva 21/7|see Vitamin B with Iron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012652/
+Repliva 21/7|see Vitamin B/Iron/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012654/
+Reprexain|see Ibuprofen/Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010656/
+Repronex|see Follicle Stimulating Hormone and Luteinizing Hormone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010378/
+Requa Activated Charcoal|see Activated Charcoal |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008816/
+Rescon|see Chlorpheniramine/Methscopolamine/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009580/
+Rescriptor|see Delavirdine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009844/
+Rescula|see Unoprostone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012570/
+Reserpine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011966/
+Reserpine, Hydralazine, and Hydrochlorothiazide|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011967/
+Reslizumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027566/
+Resource Glutasolve|see L-glutamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010842/
+Respa-BR|see Brompheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009332/
+Respiratory Syncytial Virus Immune Globulin, Human|RSV) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011971/
+Restall|see Hydroxyzine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000905/
+Restall|see Hydroxyzine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027550/
+Restasis|see Cyclosporine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000494/
+Restasis|see Cyclosporine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009779/
+Restoril|see Temazepam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012321/
+Resyl|see Guaifenesin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010512/
+Retapamulin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011972/
+Reteplase, Recombinant|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011974/
+Retisert|see Fluocinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000751/
+Retisert|see Fluocinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023962/
+Retisert|see Fluocinolone Acetonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010335/
+Retrovir|see Zidovudine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001938/
+Retrovir|see Zidovudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012701/
+Retrovir|see Zidovudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012700/
+Revatio|see Sildenafil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001641/
+Revatio|see Sildenafil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012115/
+Revatio|see Sildenafil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012114/
+Reversol|see Edrophonium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010076/
+Revestive|see Teduglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014614/
+Revia|see Naltrexone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001242/
+Revia|see Naltrexone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011329/
+Revitalose-C-1000|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000164/
+Revitalose-C-1000|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009115/
+Revive|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Revive|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024611/
+Revlimid|see Lenalidomide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010883/
+Revonto|see Dantrolene)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000512/
+Revonto|see Dantrolene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009807/
+Rexaphenac|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Rexaphenac|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021836/
+Rexulti|see Brexpiprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027007/
+Reyataz|see Atazanavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009133/
+Rezira|see Hydrocodone/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010593/
+Rheumatrex Dose Pack|see Methotrexate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011139/
+Rhinall|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Rhinall|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011713/
+Rhinocort|see Budesonide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000272/
+Rhinocort|see Budesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009338/
+Rhinocort Turbuhaler|see Budesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009335/
+Rho|D) Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011977/
+Rhofade|see Oxymetazoline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001331/
+Rhofade|see Oxymetazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029619/
+Rhoxal-Estradiol Derm 50|see Estrogen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000685/
+Rhoxal-Estradiol Derm 50|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010194/
+RiaSTAP|see Fibrinogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021838/
+Ribavirin||
+Ribavirin|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011978/
+Ribavirin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011979/
+Ribociclib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029992/
+Riboflavin|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011982/
+Riboflavin 5-Phosphate|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027568/
+Rid|see Piperonyl Butoxide/Pyrethrum Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011752/
+Rid-A-Pain|see Capsaicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Ridaura|see Auranofin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009157/
+Rifabutin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011983/
+Rifampin|Rifadin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001577/
+Rifampin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011986/
+Rifampin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011985/
+Rifampin/Isoniazid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011991/
+Rifampin/Isoniazid/Pyrazinamide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011992/
+Rifapentine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011993/
+Rifaximin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011995/
+Rilonacept|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011997/
+Rilpivirine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011999/
+Riluzole|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012001/
+RimabotulinumtoxinB|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012003/
+Rimantadine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012005/
+Rimexolone|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012007/
+Rimso-50|see Dimethyl Sulfoxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009961/
+Riociguat|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018939/
+Riomet|see Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011121/
+Risamine|see Menthol and Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024101/
+Risedronate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012009/
+Risedronate/Calcium|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014356/
+Risperidone|Risperdal)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001588/
+Risperidone|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012013/
+Risperidone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012012/
+Ritalin|see Methylphenidate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001174/
+Ritalin|see Methylphenidate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011170/
+Rite Aid Acid Reducer|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+Rite Aid Acid Reducer|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Rite Aid Allergy & Congestion Relief|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Rite Aid Allergy Relief|see Cetirizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009534/
+Rite Aid Allergy Relief|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Rite Aid Allergy Relief-D|see Fexofenadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010297/
+Rite Aid Anti-Diarrheal|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Rite Aid Anti-Itch|see Diphenhydramine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000586/
+Rite Aid Anti-Itch|see Diphenhydramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009967/
+Rite Aid Anti-Itch|see Diphenhydramine/Zinc |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009969/
+Rite Aid Anti-Nausea|see Dextrose/Fructose/Phosphoric Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009902/
+Rite Aid Antifungal|see Terbinafine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001765/
+Rite Aid Antifungal|see Terbinafine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012338/
+Rite Aid Bacitracin Zinc|see Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000199/
+Rite Aid Bacitracin Zinc|see Bacitracin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009198/
+Rite Aid Cetiri-D|see Cetirizine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009536/
+Rite Aid Chest Rub|see Camphor/Eucalyptus Oil/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009418/
+Rite Aid Children's Chewable Vitamins With Iron|see Vitamin Combination with Iron, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Rite Aid Coenzyme Q-10|see Coenzyme Q10 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009708/
+Rite Aid Cough Drops|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Rite Aid Dandruff|see Selenium Sulfide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012101/
+Rite Aid Dual Action Complete|see Antacid, Calcium and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009024/
+Rite Aid Epsom Salt|see Magnesium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001100/
+Rite Aid Epsom Salt|see Magnesium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022568/
+Rite Aid Eye Allergy Relief|see Naphazoline/Pheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011336/
+Rite Aid Eye Care|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+Rite Aid Eye Care|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028325/
+Rite Aid First Aid Triple Antibiotic|see Bacitracin/Neomycin/Polymyxin B |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009199/
+Rite Aid First Aid Triple Antibiotic|see Neomycin, Polymyxin B, and Bacitracin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013395/
+Rite Aid Folic Acid|see Folic Acid)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000772/
+Rite Aid Folic Acid|see Folic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010374/
+Rite Aid Hair Regrowth Treatment For Men|see Minoxidil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001200/
+Rite Aid Hair Regrowth Treatment For Men|see Minoxidil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011238/
+Rite Aid Hydrogen Peroxide|see Hydrogen Peroxide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000894/
+Rite Aid Hydrogen Peroxide|see Hydrogen Peroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010610/
+Rite Aid Lansoprazole|see Lansoprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010860/
+Rite Aid Laxative|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+Rite Aid Laxative Oral Saline|see Sodium Phosphate Dibasic/Sodium Phosphate Monobasic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012174/
+Rite Aid Laxative and Stool Softener|see Laxative, Stimulant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010876/
+Rite Aid Lice Treatment|see Permethrin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011682/
+Rite Aid Melatonin|see Melatonin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011068/
+Rite Aid Miconazole 3|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Rite Aid Miconazole 3|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011213/
+Rite Aid Milk of Magnesia|see Magnesium Hydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011021/
+Rite Aid Mini Nicotine|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Rite Aid Mini Nicotine|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Rite Aid Motion Sickness Relief|see Meclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011054/
+Rite Aid Nasal Decongestant PE|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011710/
+Rite Aid Niacin|see Niacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011393/
+Rite Aid Nicotine|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011404/
+Rite Aid Night Sleep Aid|see Doxylamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010044/
+Rite Aid Omeprazole|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+Rite Aid Omeprazole and Sodium Bicarbonate|see Omeprazole/Sodium Bicarbonate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011498/
+Rite Aid Senna|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+Rite Aid Severe Sinus Congestion & Pain Relief|see Acetaminophen/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008798/
+Rite Aid Stay Awake|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Rite Aid Sterile Eye Wash|see Eye Wash |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010247/
+Rite Aid Suppositories|see Laxatives, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010879/
+Rite Aid Vitamin B-1|see Thiamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012391/
+Rite Aid Vitamin B-1|see Thiamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014656/
+Rite Aid Vitamin B-12|see Vitamin B-12 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012653/
+Rite Aid Vitamin B-6|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001529/
+Rite Aid Vitamin B-6|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011900/
+Rite Aid Vitamin D-3|see Vitamin D |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012661/
+Rite Aid Vitamin E|see Vitamin E |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012663/
+Rite Aid Zinc|see Zinc Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012710/
+Ritodrine|Oral route, Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012016/
+Ritonavir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012017/
+Rituximab|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012019/
+Riva-Amoxicillin|see Amoxicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008968/
+Rivaroxaban|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012021/
+Rivastigmine||
+Rivastigmine|Absorbed through the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012023/
+Rivastigmine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012024/
+Rixubis|see Coagulation Factor IX Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015544/
+Rixubis|see Factor IX Complex)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000712/
+Rixubis|see Factor IX Complex, Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018926/
+Rizatriptan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012027/
+Robafen Cough|see Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009892/
+Robaxin|see Methocarbamol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001156/
+Robaxin|see Methocarbamol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011136/
+Robaxin|see Methocarbamol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011134/
+Robidone|see Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021841/
+Robinul|see Glycopyrrolate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000827/
+Robinul|see Glycopyrrolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010493/
+Robinul|see Glycopyrrolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010492/
+Rocaltrol|see Calcitriol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000296/
+Rocaltrol|see Calcitriol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009406/
+Rocephin|see Ceftriaxone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009521/
+Rocuronium|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012029/
+Roflumilast|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012030/
+Rolaids|see Calcium Supplement)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000302/
+Rolaids|see Calcium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009415/
+Rolapitant|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027034/
+Romidepsin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012032/
+Romiplostim|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012034/
+Romycin|see Erythromycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000673/
+Romycin|see Erythromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010155/
+Ropinirole|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012036/
+Ropivacaine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012039/
+Rosadan|see Metronidazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001181/
+Rosadan|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011195/
+Rosanil|see Sulfacetamide/Sulfur |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012234/
+Rosiglitazone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012041/
+Rosiglitazone/Glimepiride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012045/
+Rosiglitazone/Metformin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012046/
+Rosuvastatin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012047/
+Rotavirus Vaccine, Live|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012049/
+Rotigotine|Absorbed through the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012053/
+Rowasa|see Mesalamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001140/
+Rowasa|see Mesalamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011108/
+Roweepra|see Levetiracetam)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001045/
+Roweepra|see Levetiracetam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010898/
+Roxanol|see Morphine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001216/
+Roxanol|see Morphine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011277/
+Roxicodone|see Oxycodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001326/
+Roxicodone|see Oxycodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011537/
+Roxicodone|see Oxycodone, Rapid Release |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011541/
+Roychlor|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011799/
+Rubella Virus Vaccine, Live|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012056/
+Rubella and Mumps Virus Vaccine Live|Intramuscular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012055/
+Rubidium Rb 82|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012058/
+Rucaparib|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029543/
+Ruconest|see C1 Esterase Inhibitor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027533/
+Ruconest|see C1 Esterase Inhibitor Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023479/
+Rufinamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012060/
+Ruxolitinib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012062/
+RyVent|see Carbinoxamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009450/
+Rybix ODT|see Tramadol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012486/
+Ryneze|see Antihistamine/Decongestant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009064/
+Rytary|see Carbidopa/Levodopa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009448/
+Rythmol|see Propafenone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011867/
+Ryzodeg 70/30|see Insulin Aspart/Insulin Degludec |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027266/

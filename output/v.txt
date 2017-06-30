@@ -1,0 +1,299 @@
+drug|other_text|link
+Vaccinia Immune Globulin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012583/
+Vagifem|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Vagifem|see Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010183/
+Vagifem|see Estrogen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000685/
+Vagifem|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010195/
+Valacyclovir|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012586/
+Valchlor|see Mechlorethamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001114/
+Valchlor|see Mechlorethamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018938/
+Valdecoxib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012589/
+Valganciclovir|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012590/
+Valisone|see Betamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000236/
+Valisone|see Betamethasone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009275/
+Valium|see Diazepam)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000558/
+Valium|see Diazepam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009909/
+Valium|see Diazepam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009907/
+Valproate Sodium|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012592/
+Valproic Acid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012594/
+Valrubicin|Inside the bladder) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012596/
+Valsartan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012598/
+Valsartan/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012601/
+Valu-Dryl Anti-Itch|see Diphenhydramine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000586/
+Valu-Dryl Anti-Itch|see Diphenhydramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009967/
+Vanadom|see Carisoprodol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009466/
+Vanatol LQ|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Vanatrip|see Amitriptyline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008944/
+Vancenase|see Beclomethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000206/
+Vancenase|see Beclomethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009214/
+Vancocin HCl|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Vancomycin||
+Vancomycin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012603/
+Vancomycin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012602/
+Vancomycin/Dextrose Premix|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012606/
+Vandazole|see Metronidazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001181/
+Vandazole|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011199/
+Vandetanib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012607/
+Vaniqa|see Eflornithine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000639/
+Vaniqa|see Eflornithine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010082/
+Vanos|see Fluocinonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010336/
+Vanspar|see Buspirone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009364/
+Vantas|see Histrelin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010564/
+Vantin|see Cefpodoxime Proxetil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009509/
+Vantrela ER|see Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021841/
+Vaporx Balm|see Camphor/Eucalyptus Oil/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009418/
+Vaprisol|see Conivaptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009723/
+Vaqta|see Hepatitis A Vaccine, Inactivated |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010551/
+Vardenafil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012609/
+Varenicline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012611/
+Varibar|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Varibar|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009207/
+Varibar|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029613/
+Varicella Virus Vaccine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012613/
+Varicella-Zoster Immune Globulin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012615/
+Varithena|see Polidocanol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011772/
+Varubi|see Rolapitant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027034/
+Vascepa|see Icosapent Ethyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014334/
+Vasceze Heparin Lock Flush|see Heparin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010545/
+Vaseretic|see Enalapril/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010103/
+Vasoclear|see Naphazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011334/
+Vasocon-A|see Antazoline/Naphazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009026/
+Vasodilan|see Isoxsuprine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001007/
+Vasodilan|see Isoxsuprine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010805/
+Vasofrinic Dh|see Hydrocodone/Chlorpheniramine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010591/
+Vasopressin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012617/
+Vasotec|see Enalapril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010098/
+Vasotec I.V.|see Enalaprilat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010104/
+Vaxchora|see Cholera Vaccine, Live |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027861/
+Vazculep|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Vazculep|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023491/
+Vectibix|see Panitumumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011578/
+Vectical|see Calcitriol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000296/
+Vectical|see Calcitriol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009408/
+Vecuronium|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012618/
+Vedolizumab|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023335/
+Veetids|see Penicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011640/
+Velaglucerase Alfa|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012619/
+Velcade|see Bortezomib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009314/
+Veletri|see Epoprostenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010130/
+Velivet|see Desogestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009865/
+Velphoro|see Sucroferric Oxyhydroxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021874/
+Veltassa|see Patiromer |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027277/
+Veltin|see Clindamycin/Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009658/
+Vemlidy|see Tenofovir Alafenamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029487/
+Vemurafenib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012621/
+Venetoclax|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027570/
+Venlafaxine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012623/
+Venofer|see Iron Sucrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010784/
+Venoglobulin-S|see Immune Globulin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000931/
+Venoglobulin-S|see Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Ventavis|see Iloprost |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010672/
+Ventolin|see Albuterol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000044/
+Ventolin|see Albuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008848/
+Ventolin|see Albuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008849/
+Vepesid|see Etoposide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000703/
+Vepesid|see Etoposide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010234/
+Vepesid|see Etoposide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010233/
+Veramyst|see Fluticasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000767/
+Veramyst|see Fluticasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021965/
+Verapamil||
+Verapamil|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012626/
+Verapamil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012625/
+Verdeso|see Desonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009866/
+Verdrocet|see Hydrocodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Veregen|see Sinecatechins |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012130/
+Veripred 20|see Prednisolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001486/
+Veripred 20|see Prednisolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011824/
+Vermox|see Mebendazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011047/
+Versacloz|see Clozapine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009695/
+Versed|see Midazolam)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001189/
+Versed|see Midazolam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011217/
+Versed|see Midazolam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011215/
+Versel|see Selenium Sulfide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012101/
+Verteporfin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012629/
+Vesanoid|see Tretinoin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001846/
+Vesanoid|see Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012510/
+Vesicare|see Solifenacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012185/
+Vestura|see Drospirenone and Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013544/
+Vestura|see Drospirenone/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010055/
+Vexol|see Rimexolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012007/
+Vi-Atro|see Diphenoxylate/Atropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009972/
+Viagra|see Sildenafil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001641/
+Viagra|see Sildenafil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012114/
+Vibativ|see Telavancin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012309/
+Viberzi|see Eluxadoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025433/
+Vibra-Tabs|see Doxycycline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000622/
+Vibra-Tabs|see Doxycycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010039/
+Vicks 44 Cough Relief|see Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009892/
+Vicks Sinex|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011713/
+Vicks Sinex 12 Hour|see Oxymetazoline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001331/
+Vicks Sinex 12 Hour|see Oxymetazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011546/
+Vicoprofen|see Ibuprofen/Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010656/
+Victoza|see Liraglutide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010964/
+Victrelis|see Boceprevir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009312/
+Vidarabine|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012631/
+Vidaza|see Azacitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009162/
+Videx|see Didanosine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009930/
+Viekira Pak|see Ombitasvir, Paritaprevir, Ritonavir and Dasabuvir)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024109/
+Viekira Pak|see Ombitasvir, Paritaprevir, Ritonavir and Dasabuvir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024104/
+Viekira Pak|see Ombitasvir/Paritaprevir/Ritonavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027031/
+Viekira XR|see Dasabuvir/Ombitasvir/Paritaprevir/Ritonavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027927/
+Vigabatrin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012633/
+Vigamox|see Moxifloxacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001221/
+Vigamox|see Moxifloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011290/
+Vilazodone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012635/
+Vimizim|see Elosulfase Alfa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022000/
+Vimovo|see Naproxen/Esomeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011340/
+Vimpat|see Lacosamide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001025/
+Vimpat|see Lacosamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010848/
+Vimpat|see Lacosamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010847/
+Vinacal B|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001529/
+Vinacal B|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011900/
+Vinblastine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012637/
+Vincristine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012639/
+Vincristine Liposome|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014368/
+Vinorelbine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012642/
+Vioform|see Clioquinol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009659/
+Viokace|see Pancrelipase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011575/
+Viracept|see Nelfinavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011368/
+Viramune|see Nevirapine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011391/
+Virasal|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Virazole|see Ribavirin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001574/
+Virazole|see Ribavirin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011978/
+Viread|see Tenofovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012333/
+Viroptic|see Trifluridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012533/
+Virt-Gard|see Folic Acid/Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010377/
+Virt-Phos 250 Neutral|see Phosphate Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011726/
+Visicol|see Phosphate Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011727/
+Visicol|see Sodium Phosphate Dibasic/Sodium Phosphate Monobasic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012174/
+Visine|see Tetrahydrozoline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001781/
+Visine|see Tetrahydrozoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012376/
+Visine L.R.|see Oxymetazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011548/
+Visine-A|see Naphazoline/Pheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011336/
+VisionBlue|see Trypan Blue |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012557/
+Visipaque|see Iodixanol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025622/
+Visken|see Pindolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011740/
+Vismodegib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012644/
+Vistacot|see Hydroxyzine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000905/
+Vistacot|see Hydroxyzine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027550/
+Vistaril|see Hydroxyzine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023966/
+Vistaril|see Meclizine, Buclizine, and Cyclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011055/
+Vistide|see Cidofovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009614/
+Vistogard|see Uridine Triacetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027039/
+Vita #12|see Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009764/
+Vita Health Polyethylene Glycol 3350|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+Vitamin A||
+Vitamin A|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012646/
+Vitamin A Acid|see Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012511/
+Vitamin A Palmitate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012648/
+Vitamin B Combination|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012650/
+Vitamin B Combination|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012649/
+Vitamin B Complex|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012651/
+Vitamin B Complex 100|see Dexpanthenol/Niacinamide/Vit B1/Vit B2/Vit B6 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009885/
+Vitamin B with Iron|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012652/
+Vitamin B-12|Cyanocobalamin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012653/
+Vitamin B/Iron/Vitamin C|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012654/
+Vitamin B/Vitamin C|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012655/
+Vitamin C Powder|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000164/
+Vitamin C Powder|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009115/
+Vitamin Combination with Iron, Pediatric Formula|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Vitamin Combination, Adult Formula|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012658/
+Vitamin Combination, Prenatal Formula|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012660/
+Vitamin D||
+Vitamin D|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012661/
+Vitamin D and Related Compounds|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012662/
+Vitamin Deficiency Injectable System - B12|see Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000487/
+Vitamin E|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012663/
+Vitamin K|Class) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024016/
+Vitamin/Fluoride Combination, Pediatric Formula|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012666/
+Vitamin/Mineral Combination, Adult Formula|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012667/
+Vitamin/Mineral/Nutriceutical Combination|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012668/
+Vitamin/Nutriceutical Combination|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012669/
+Vitazol|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011195/
+Vitekta|see Elvitegravir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023958/
+Vitrase|see Hyaluronidase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010577/
+Vitrasert|see Ganciclovir)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000809/
+Vitrasert|see Ganciclovir Implant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014332/
+Vitravene|see Fomivirsen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010384/
+Vituz|see Hydrocodone and Chlorpheniramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014585/
+Vivactil|see Protriptyline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011885/
+Vivarin|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Vivarin|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Vivarin|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024611/
+Vivelle|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010194/
+Vivelle-Dot|see Estradiol Patch |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010186/
+Vivitrol|see Naltrexone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001242/
+Vivitrol|see Naltrexone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011330/
+Vivlodex|see Meloxicam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011069/
+Vivotif|see Typhoid Vaccine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014183/
+Vivotif|see Typhoid Vaccine, Live |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012563/
+Vizamyl|see Flutemetamol F 18 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021839/
+Vofenal|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Vofenal|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009919/
+Vogelxo|see Testosterone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001771/
+Vogelxo|see Testosterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012356/
+Voltaren|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009918/
+Voltaren|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021836/
+Voltaren Gel|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009920/
+Volumex|see Albumin, Iodinated I-131 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008847/
+Voluven|see Tetrastarch |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012378/
+Von Willebrand Factor Recombinant|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027287/
+Vopac|see Acetaminophen and Codeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008790/
+Vorapaxar|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022740/
+Voraxaze|see Glucarpidase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010482/
+Voriconazole||
+Voriconazole|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012673/
+Voriconazole|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012672/
+Vorinostat|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012676/
+Vortioxetine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018946/
+Vosol HC|see Acetic Acid/Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008805/
+Votrient|see Pazopanib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011608/
+Vraylar|see Cariprazine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027009/
+Vumon|see Teniposide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012331/
+Vusion|see Miconazole/Zinc Oxide/White Petrolatum |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011214/
+Vytone|see Hydrocortisone and Iodoquinol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024619/
+Vytorin|see Ezetimibe/Simvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010251/
+Vyvanse|see Amphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008972/
+Vyvanse|see Lisdexamfetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018936/

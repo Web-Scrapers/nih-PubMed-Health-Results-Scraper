@@ -1,0 +1,407 @@
+drug|other_text|link
+L-Methylfolate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015563/
+L-glutamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010842/
+LA-12|see Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009764/
+LT Injection Kit|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+LT Injection Kit|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Labetalol|Labetalol HCl Novaplus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001024/
+Labetalol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010844/
+Labetalol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010843/
+Lac-Hydrin Twelve|see Ammonium Lactate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008962/
+Lacosamide||
+Lacosamide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010848/
+Lacosamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010847/
+Lacrisert|see Hydroxypropyl Cellulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010625/
+Lacticare-HC|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Lacticare-HC|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Lactobacillus Acidophilus|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029618/
+Lactulose|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010851/
+Lamivudine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010852/
+Lamivudine/Zidovudine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010855/
+Lamotrigine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010856/
+Lamprene|see Clofazimine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009669/
+Lanaphilic w/Urea|see Urea)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001880/
+Lanaphilic w/Urea|see Urea |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Laniroif|see Butalbital and Aspirin Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009371/
+Lanolin|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018933/
+Lanoxicaps|see Digoxin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000575/
+Lanoxicaps|see Digoxin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009944/
+Lanoxin|see Digoxin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009945/
+Lanreotide|Under the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010859/
+Lansoprazole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010860/
+Lansoprazole/Amoxicillin/Clarithromycin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010862/
+Lanthanum|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024186/
+Lantus|see Insulin Glargine, Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010731/
+Lapatinib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010865/
+Lariam|see Mefloquine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011064/
+Larin 1/20|see Ethinyl Estradiol/Norethindrone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010217/
+Laronidase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010867/
+Lartruvo|see Olaratumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029452/
+Larynex|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Larynex|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Lasix|see Furosemide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000793/
+Lasix|see Furosemide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010415/
+Lasix|see Furosemide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010414/
+Lassar's Paste|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Lastacaft|see Alcaftadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008852/
+Latanoprost|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010869/
+Latisse|see Bimatoprost |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009292/
+Laviv|see Azficel-T |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009176/
+Laxative, Bulk-forming|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010873/
+Laxative, Hyperosmotic|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010874/
+Laxative, Stimulant|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010875/
+Laxative, Stimulant Combination|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010876/
+Laxative, Stool Softeners|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010877/
+Laxatives, Stimulant|Enema) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010878/
+Laxatives, Stimulant|Suppository) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010879/
+Lazanda|see Fentanyl)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000728/
+Lazanda|see Fentanyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010286/
+Leader Acid Control|see Ranitidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001556/
+Leader Acid Control|see Ranitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011947/
+Leader Acid Reducer|see Famotidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000718/
+Leader Acid Reducer|see Famotidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Leader All Day Allergy D-12|see Cetirizine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009536/
+Leader All Day Pain Relief|see Naproxen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011337/
+Leader Aller-Ease|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Leader Allergy Eye Drops|see Ketotifen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001021/
+Leader Allergy Eye Drops|see Ketotifen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Leader Athlete's Foot AF|see Terbinafine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001765/
+Leader Athlete's Foot AF|see Terbinafine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012338/
+Leader Children's All Day Allergy|see Cetirizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009534/
+Leader ClearLax|see Polyethylene Glycol 3350 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011778/
+Leader Co Q10|see Coenzyme Q10 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009708/
+Leader Cough Drops|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Leader Lice Treatment|see Permethrin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011682/
+Leader Magnesium|see Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011019/
+Leader Magnesium|see Mineral Supplement Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011232/
+Leader Miconazole 3 Combination Pack|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Leader Miconazole 3 Combination Pack|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011213/
+Leader Natural B Complex with Vitamin C|see Vitamin B/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012655/
+Leader Natural Vitamin B12|see Vitamin B-12 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012653/
+Leader Nicotine Polacrilex|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Leader Nicotine Polacrilex|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Leader Nicotine Transdermal System|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011404/
+Leader Nose Drops|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Leader Nose Drops|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011713/
+Leader Omeprazole|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+Leader Oral Saline Laxative|see Sodium Phosphate Dibasic/Sodium Phosphate Monobasic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012174/
+Leader Saline Nasal Spray|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+Leader Saline Nasal Spray|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025265/
+Leader Urinary Pain Relief|see Phenazopyridine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011688/
+Leader Vitamin D3|see Vitamin D)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001921/
+Leader Vitamin D3|see Vitamin D |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012661/
+Lecithin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010880/
+Ledipasvir and Sofosbuvir|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023971/
+Leflunomide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010881/
+Lemtrada|see Alemtuzumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008859/
+Lenalidomide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010883/
+Lenvatinib|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024623/
+Lescol|see Fluvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010370/
+Lesinurad|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027270/
+Letairis|see Ambrisentan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008911/
+Letrozole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010887/
+Leucovorin|Leucovorin Calcium Novaplus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001041/
+Leucovorin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010890/
+Leucovorin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010889/
+Leukeran|see Chlorambucil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009550/
+Leukine|see Sargramostim |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012082/
+Leuprolide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010893/
+Leuprolide and Norethindrone|Intramuscular route, Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014588/
+Leustatin|see Cladribine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009643/
+Lev-Tov|see Folic Acid/Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010377/
+Lev-Tov|see Vitamin B Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012651/
+Levalbuterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010895/
+Levamisole|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010897/
+Levatol|see Penbutolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011634/
+Levbid|see Hyoscyamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010634/
+Levemir|see Insulin Detemir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010728/
+Levetiracetam||
+Levetiracetam|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010899/
+Levetiracetam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010898/
+Levitra|see Vardenafil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012609/
+Levobunolol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010903/
+Levocarnitine||
+Levocarnitine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010906/
+Levocarnitine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010905/
+Levocetirizine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010908/
+Levodopa|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010910/
+Levofloxacin||
+Levofloxacin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010912/
+Levofloxacin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010911/
+Levofloxacin|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010913/
+Levoleucovorin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010917/
+Levomilnacipran|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018934/
+Levonorgestrel||
+Levonorgestrel|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010919/
+Levonorgestrel|Implant)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029986/
+Levonorgestrel|Into the uterus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010921/
+Levonorgestrel/Ethinyl Estradiol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010923/
+Levophed|see Norepinephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011444/
+Levorphanol|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010924/
+Levothyroxine|Levothroid)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001057/
+Levothyroxine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010928/
+Levothyroxine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010926/
+Levoxyl|see Thyroid Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012408/
+Levulan Kerastick|see Aminolevulinic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008933/
+Lexapro|see Escitalopram |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010165/
+Lexiscan|see Regadenoson |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011958/
+Lexiva|see Fosamprenavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010390/
+Lexixryl|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Lexixryl|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009920/
+Lialda|see Mesalamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001140/
+Lialda|see Mesalamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011105/
+Librax|see Antimuscarinic Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009066/
+Librax|see Chlordiazepoxide/Clidinium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009562/
+Librium|see Chlordiazepoxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009557/
+Lice Treatment|see Piperonyl Butoxide/Pyrethrum Extract |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011752/
+Lidemol|see Fluocinonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010336/
+Lidocaine||
+Lidocaine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010931/
+Lidocaine|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010932/
+Lidocaine|Into the mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025251/
+Lidocaine|Intradermal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010933/
+Lidocaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010935/
+Lidocaine Patch|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010942/
+Lidocaine and Hydrocortisone||
+Lidocaine and Hydrocortisone|Topical application route, Rectal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010938/
+Lidocaine and Prilocaine||
+Lidocaine/Dextrose Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022567/
+Lidocaine/Epinephrine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010944/
+Lidocaine/Prilocaine|On the gums)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010946/
+Lidocaine/Prilocaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010945/
+Lidocaine/Tetracaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010947/
+Lifitegrast|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027930/
+Limbitrol|see Chlordiazepoxide/Amitriptyline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009561/
+Limbrel|see Flavocoxid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010306/
+Linaclotide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014340/
+Linagliptin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010948/
+Linagliptin/Metformin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010951/
+Lincomycin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010952/
+Lindane|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010954/
+Linezolid||
+Linezolid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010957/
+Linezolid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010956/
+Lioresal|see Baclofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000200/
+Lioresal|see Baclofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009201/
+Lioresal|see Baclofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009200/
+Liothyronine||
+Liothyronine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010960/
+Liothyronine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010962/
+Liotrix|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010963/
+Lipiodol3|see Ethiodized Oil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022735/
+Lipitor|see Atorvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009143/
+Lipodox|see Doxorubicin Liposome |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025615/
+Lipofen|see Fenofibrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010274/
+Liposyn|see Fat Emulsion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010265/
+Liquadd|see Dextroamphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009889/
+Liqui-DualCitra|see Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009641/
+Liquibid D-R|see Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010515/
+Liquid Calcium-Magnesium Strawberry Flavor|see Magnesium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011026/
+Liquid E-Z-Paque|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Liquid E-Z-Paque|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009207/
+Liquimat|see Sulfur |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012257/
+Liquor Carbonis Detergens|see Coal Tar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Liraglutide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010964/
+Lisdexamfetamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018936/
+Lisinopril|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010968/
+Lisinopril/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010971/
+Lispro-PFC|see Insulin Lispro)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000967/
+Lispro-PFC|see Insulin Lispro |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010736/
+Listerine HealthyWhite|see Sodium Fluoride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012157/
+Lithium|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010972/
+Lithostat|see Acetohydroxamic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008806/
+Livalo|see Pitavastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011757/
+Lixisenatide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027931/
+Lo Loestrin Fe|see Norethindrone Acetate/Ethinyl Estradiol/Ferrous Fumarate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011446/
+Lo/Ovral-28|see Ethinyl Estradiol/Norgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010219/
+LoHist D|see Chlorpheniramine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009581/
+LoKara|see Desonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009866/
+LoSo Prep|see Bisacodyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009297/
+Locoid|see Hydrocortisone Butyrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010602/
+Lodine|see Etodolac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010228/
+Lodosyn|see Carbidopa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009446/
+Lodoxamide|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010974/
+Lomaira|see Phentermine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011706/
+Lomefloxacin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010976/
+Lomitapide|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014589/
+Lomocot|see Diphenoxylate/Atropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009972/
+Lomustine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010977/
+Loniten|see Minoxidil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001200/
+Loniten|see Minoxidil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011237/
+Lonsurf|see Trifluridine/Tipiracil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027286/
+Loperamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Loperamide/Simethicone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010981/
+Lopid|see Gemfibrozil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010457/
+Lopinavir/Ritonavir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010983/
+Lopreeza|see Estradiol/Norethindrone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013574/
+Lopreeza|see Estradiol/Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010190/
+Lopressor|see Metoprolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001180/
+Lopressor|see Metoprolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011187/
+Lopressor|see Metoprolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011186/
+Lopressor HCT|see Metoprolol/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011191/
+Loprox|see Ciclopirox |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009612/
+Loracarbef|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010984/
+Loratadine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010986/
+Loratadine/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Lorazepam||
+Lorazepam|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010990/
+Lorazepam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010988/
+Lorcaserin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014342/
+Lorcet|see Hydrocodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Lorvatus|see Metaxalone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011119/
+Loryna|see Drospirenone and Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013544/
+Loryna|see Drospirenone/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010055/
+Lorzone|see Chlorzoxazone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009589/
+Losartan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010993/
+Losartan/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010996/
+Lotensin|see Benazepril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009224/
+Lotensin HCT|see Benazepril/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009227/
+Loteprednol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010997/
+Loteprednol/Tobramycin|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011000/
+Lotrel|see Amlodipine/Benazepril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008956/
+Lotriderm|see Betamethasone and Clotrimazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013416/
+Lotriderm|see Betamethasone and Clotrimazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009269/
+Lotrimin|see Clotrimazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000453/
+Lotrimin|see Clotrimazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009693/
+Lotrimin AF|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+Lotrimin Ultra|see Butenafine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009380/
+Lotrisone|see Betamethasone/Clotrimazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009277/
+Lotronex|see Alosetron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008892/
+Lovastatin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011001/
+Lovaza|see Omega-3-Acid Ethyl Esters |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011493/
+Lovenox|see Enoxaparin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010108/
+Loxapine||
+Loxapine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011003/
+Loxapine|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014590/
+Lozol|see Indapamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010693/
+Lubiprostone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011005/
+Lubricating Plus|see Carboxymethylcellulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009463/
+Lucentis|see Ranibizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014354/
+Lucidex|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Lucidex|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024611/
+Lucinactant|Into the breathing tube)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011008/
+Ludiomil|see Maprotiline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011036/
+Lufyllin|see Dyphylline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010066/
+Luliconazole|Topical application route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021843/
+Lumacaftor/Ivacaftor|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025629/
+Lumason|see Sulfur Hexafluoride Lipid Type A Microspheres |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029548/
+Lumitene|see Beta Carotene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009261/
+Lumizyme|see Alglucosidase Alfa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008870/
+Lunelle Monthly Contraceptive|see Medroxyprogesterone/Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011060/
+Lunesta|see Eszopiclone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010201/
+Lupaneta Pack|see Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011445/
+Lupicare|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Lurasidone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011010/
+Lusedra|see Fospropofol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010404/
+Lusonal|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011710/
+Lustra-AF|see Hydroquinone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010617/
+Luvox|see Fluvoxamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010372/
+Luxiq|see Betamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000236/
+Luxiq|see Betamethasone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009275/
+Lyme Disease Vaccine|Recombinant Ospa) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011014/
+Lymphazurin|see Isosulfan Blue |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010800/
+Lymphocyte Immune Globulin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011015/
+Lymphoseek|see Technetium Tc 99m Tilmanocept |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014613/
+Lynparza|see Olaparib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024103/
+Lyrica|see Pregabalin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011830/
+Lysodren|see Mitotane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011250/
+Lysteda|see Tranexamic Acid)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001840/
+Lysteda|see Tranexamic acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012494/

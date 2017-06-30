@@ -1,0 +1,169 @@
+drug|other_text|link
+Z-Clinz|see Clindamycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000437/
+Z-Clinz|see Clindamycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009652/
+Zaditor|see Ketotifen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001021/
+Zaditor|see Ketotifen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Zafirlukast|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012690/
+Zaleplon|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012694/
+Zanaflex|see Tizanidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012442/
+Zanamivir|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012696/
+Zanosar|see Streptozocin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012220/
+Zantac|see Ranitidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001556/
+Zantac|see Ranitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011948/
+Zantac|see Ranitidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011947/
+Zapzyt|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Zapzyt Cleansing|see Sulfur |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012257/
+Zarah|see Drospirenone and Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013544/
+Zarah|see Drospirenone/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010055/
+Zarontin|see Ethosuximide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010222/
+Zaroxolyn|see Metolazone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011184/
+Zarxio|see Filgrastim |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010301/
+Zavesca|see Miglustat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011225/
+Zazole|see Terconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012345/
+Zeasorb-AF|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Zeasorb-AF|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+Zebeta|see Bisoprolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009304/
+Zebutal|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Zecuity|see Sumatriptan)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001727/
+Zecuity|see Sumatriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014611/
+Zegerid|see Omeprazole/Sodium Bicarbonate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011498/
+Zejula|see Niraparib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029990/
+Zelapar|see Selegiline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001632/
+Zelapar|see Selegiline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012098/
+Zelboraf|see Vemurafenib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012621/
+Zelnorm|see Tegaserod |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012305/
+Zema-Pak|see Dexamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000542/
+Zema-Pak|see Dexamethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009872/
+Zemaira|see Alpha-1 Proteinase Inhibitor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008894/
+Zemaira|see Alpha-1 Proteinase Inhibitor Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008895/
+Zembrace Symtouch|see Sumatriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012261/
+Zemplar|see Paricalcitol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001352/
+Zemplar|see Paricalcitol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011601/
+Zemplar|see Paricalcitol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011600/
+Zemplar|see Vitamin D)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001921/
+Zemplar|see Vitamin D and Related Compounds |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012662/
+Zemuron|see Rocuronium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012029/
+Zenatane|see Isotretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010802/
+Zenpep|see Pancrelipase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011575/
+Zenzedi|see Amphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008972/
+Zenzedi|see Dextroamphetamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009889/
+Zepatier|see Elbasvir/Grazoprevir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027541/
+Zerbaxa|see Ceftolozane and Tazobactam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024097/
+Zerit|see Stavudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012214/
+Zerlor|see Acetaminophen, Caffeine, and Dihydrocodeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029998/
+Zerlor|see Acetaminophen, Caffeine, and Dihydrocodeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029978/
+Zestoretic|see Lisinopril/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010971/
+Zestril|see Lisinopril |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010968/
+Zetia|see Ezetimibe |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010248/
+Zetonna|see Ciclesonide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000413/
+Zetonna|see Ciclesonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009610/
+Zetts|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Zetts|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Zevalin In-111|see Ibritumomab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010646/
+Ziac|see Bisoprolol/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009307/
+Ziagen|see Abacavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008765/
+Ziana|see Clindamycin/Tretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009658/
+Ziconotide|Into the fluid around your spinal cord and brain)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012698/
+Zide|see Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010584/
+Zidovudine||
+Zidovudine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012701/
+Zidovudine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012700/
+Zileuton|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012704/
+Zimamox|see Amoxicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008968/
+Zinacef|see Cefuroxime)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000360/
+Zinacef|see Cefuroxime |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009524/
+Zinbryta|see Daclizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027862/
+Zinc Acetate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012706/
+Zinc Oxide|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Zinc Sulfate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012709/
+Zinc Supplement|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012710/
+Zinc Supplement|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012711/
+Zincon|see Pyrithione |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011904/
+Zinecard|see Dexrazoxane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009886/
+Zingo|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+Zingo|see Lidocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010933/
+Zinplava|see Bezlotoxumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029450/
+Zioptan|see Tafluprost |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012285/
+Ziprasidone||
+Ziprasidone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012713/
+Ziprasidone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012712/
+Zipsor|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Zipsor|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009918/
+Zirgan|see Ganciclovir)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000809/
+Zirgan|see Ganciclovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010446/
+Zithranol|see Anthralin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009027/
+Zithromax|see Azithromycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000192/
+Zithromax|see Azithromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009183/
+Zithromax|see Azithromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009182/
+Ziv-Aflibercept|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015589/
+Zocor|see Simvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012124/
+Zofran|see Ondansetron)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001309/
+Zofran|see Ondansetron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011503/
+Zofran|see Ondansetron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011501/
+Zohydro ER|see Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021841/
+Zoladex|see Goserelin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010501/
+Zoledronic Acid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012716/
+Zolinza|see Vorinostat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012676/
+Zolmitriptan|Zomig)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001947/
+Zolmitriptan|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012718/
+Zolmitriptan|Into the nose) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012719/
+Zoloft|see Sertraline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012108/
+Zolpidem||
+Zolpidem|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012721/
+Zolpidem|Into the mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012722/
+Zomacton|see Somatropin, E coli Derived |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012188/
+Zonalon|see Doxepin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000618/
+Zonalon|see Doxepin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010030/
+Zonatuss|see Benzonatate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009242/
+Zonisamide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012724/
+Zontivity|see Vorapaxar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022740/
+Zorbtive|see Somatropin, Mammalian Derived |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012191/
+Zortress|see Everolimus |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010240/
+Zostavax|see Varicella Virus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012613/
+Zostrix|see Capsaicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Zosyn|see Piperacillin/Tazobactam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011750/
+Zovia 1/35e|see Ethinyl Estradiol/Ethynodiol Diacetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010215/
+Zovirax|see Acyclovir)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000025/
+Zovirax|see Acyclovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008817/
+Zovirax|see Acyclovir Cream |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008822/
+Zovirax|see Acyclovir Ointment |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008823/
+Zubsolv|see Buprenorphine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000276/
+Zubsolv|see Buprenorphine/Naloxone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023949/
+Zubsolv|see Naloxone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001240/
+Zurampic|see Lesinurad |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027270/
+Zutripro|see Hydrocodone/Chlorpheniramine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010591/
+Zyban|see Bupropion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009361/
+Zyclara|see Imiquimod |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010682/
+Zydelig|see Idelalisib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023569/
+Zydone|see Hydrocodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Zykadia|see Ceritinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022734/
+Zylet|see Loteprednol/Tobramycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011000/
+Zyloprim|see Allopurinol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000060/
+Zyloprim|see Allopurinol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008886/
+Zymar|see Gatifloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010453/
+Zymine|see Antihistamine/Decongestant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009064/
+Zypram|see Hydrocortisone/Pramoxine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013650/
+Zypram|see Hydrocortisone/Pramoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010607/
+Zytiga|see Abiraterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008775/
+Zytopic|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+Zytopic|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012519/
+Zyvox|see Linezolid)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001063/
+Zyvox|see Linezolid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010957/
+Zyvox|see Linezolid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010956/

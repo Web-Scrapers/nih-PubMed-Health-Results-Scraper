@@ -1,0 +1,798 @@
+drug|other_text|link
+C & M Caps-375|see Antacid, Calcium and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009024/
+C-500|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000164/
+C-500|see Ascorbic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009115/
+C-Nate DHA|see Prenatal Vitamins |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011832/
+C-Nate DHA|see Vitamin Combination, Prenatal Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012660/
+C1 Esterase Inhibitor|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027533/
+C1 Esterase Inhibitor Recombinant|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023479/
+C1 Esterase Inhibitor, Human|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009387/
+CCP|see Acetaminophen/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008798/
+CIS-MDP|see Technetium Tc 99m Medronate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012301/
+CLARINEX-D 12 HOUR|see Desloratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009860/
+CVS Glucose|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+CVS Glucose|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029615/
+Cabazitaxel|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009388/
+Cabergoline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009390/
+Cabozantinib|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014572/
+Caduet|see Amlodipine/Atorvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008955/
+Cafergot|see Ergotamine/Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013436/
+Cafergot|see Ergotamine/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010145/
+Caffeine|Cafcit)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Caffeine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Caffeine|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024611/
+Caffeine Citrate|Cafcit)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000291/
+Caffeine Citrate|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009396/
+Caffeine Citrate|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009395/
+Caffeine/Sodium Benzoate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009397/
+Cal-Citrate|see Vitamin D)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001921/
+Cal-Gest|see Antacid, Calcium Containing |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009025/
+Cal-Mag|see Mineral Supplement Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011232/
+CalMag Thins|see Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011019/
+Calaclear|see Pramoxine/Zinc Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011811/
+Calamine|Topical route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009398/
+Calan|see Verapamil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001906/
+Calan|see Verapamil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012625/
+Calcet Citrate Creamy Bites|see Multivitamins with Minerals |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011296/
+Calcibind|see Sodium Cellulose Phosphate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012147/
+Calcidol|see Ergocalciferol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010138/
+Calcifediol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009399/
+Calciferol|see Vitamin D and Related Compounds |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012662/
+Calcipotriene|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009400/
+Calcitonin||
+Calcitonin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009403/
+Calcitonin|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009404/
+Calcitriol|Calcitriol NovaPlus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000296/
+Calcitriol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009407/
+Calcitriol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009406/
+Calcitriol|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009408/
+Calcium Acetate|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009409/
+Calcium Chloride|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009411/
+Calcium Chloride/Magnesium Chloride/Potassium Chloride/Sodium Chloride|Wash or rinse)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009412/
+Calcium Gluconate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009413/
+Calcium Supplement||
+Calcium Supplement|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009414/
+Calcium Supplement|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009415/
+Calcium/Vitamin D Supplement|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009416/
+Caldecort|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Caldecort|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Caldolor|see Ibuprofen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000915/
+Caldolor|see Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010649/
+Calfactant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009417/
+Calmoseptine|see Menthol and Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024101/
+Calypxo|see Menthol/Methyl Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011085/
+Cambia|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Cambia|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009918/
+Camila|see Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011445/
+Camila|see Progestin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011857/
+Camino Pro 15|see Amino Acid Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008922/
+Campath|see Alemtuzumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008859/
+Camphor/Eucalyptus Oil/Menthol|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009418/
+Camphor/Menthol|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009419/
+Campral|see Acamprosate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008779/
+Camptosar|see Irinotecan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010781/
+Camrese|see Estradiol/Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013572/
+Camrese|see Levonorgestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010923/
+Canagliflozin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015540/
+Canagliflozin and Metformin|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023566/
+Canakinumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009420/
+Canasa|see Mesalamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001140/
+Canasa|see Mesalamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011108/
+Canasa|see Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012066/
+Candesartan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009422/
+Candesartan/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009425/
+Candida Albicans Antigen|Into the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009426/
+CanesOral|see Fluconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000743/
+CanesOral|see Fluconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010316/
+Canges-XP|see Guaifenesin and Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024099/
+Canges-XP|see Guaifenesin/Hydrocodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013611/
+Cangrelor|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025430/
+Cankaid|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Cankaid|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Cantil|see Mepenzolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011086/
+Capacet|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Capecitabine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009427/
+Capex|see Fluocinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000751/
+Capex|see Fluocinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010333/
+Caphosol|see Saliva Substitutes |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012072/
+Capital w/Codeine|see Acetaminophen and Codeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008790/
+Caprelsa|see Vandetanib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012607/
+Capreomycin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009430/
+Capsaicin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Captopril|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009433/
+Captopril/Hydrochlorothiazide|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009436/
+Carac|see Fluorouracil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000757/
+Carac|see Fluorouracil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010344/
+Carafate|see Sucralfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012227/
+Carb-O-Philic/20|see Urea)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001880/
+Carb-O-Philic/20|see Urea |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Carbachol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009437/
+Carbamazepine|Carbatrol)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000314/
+Carbamazepine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029479/
+Carbamazepine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009439/
+Carbamide Peroxide|Into the ear)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009441/
+Carbenicillin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009442/
+Carbetapentane Tannate/Chlorpheniramine Tannate/Phenylephrine Tannate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009443/
+Carbetapentane/Diphenhydramine/Phenylephrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009444/
+Carbidopa|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009446/
+Carbidopa/Levodopa|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009448/
+Carbidopa/Levodopa/Entacapone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009449/
+Carbinoxamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009450/
+Carbinoxamine/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009455/
+Carboplatin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009459/
+Carboprost Tromethamine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009462/
+Carboxymethylcellulose|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009463/
+Cardene|see Nicardipine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001264/
+Cardene|see Nicardipine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011400/
+Cardene|see Nicardipine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011399/
+Cardiogen-82 Generator|see Rubidium Rb 82 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012058/
+Cardiopress|see Vitamin/Nutriceutical Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012669/
+Cardizem|see Diltiazem)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000580/
+Cardizem|see Diltiazem |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009954/
+Cardizem|see Diltiazem |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009956/
+Cardura|see Doxazosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010027/
+Carfilzomib|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014320/
+Carglumic acid|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009464/
+Carimune|see Immune Globulin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000931/
+Carimune|see Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Cariprazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027009/
+Carisoprodol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009466/
+Carisoprodol/Aspirin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009470/
+Carisoprodol/Aspirin/Codeine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009471/
+Carlson Homocysteine Guard|see Folic Acid/Cyanocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010377/
+Carlson Homocysteine Guard|see Vitamin B Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012649/
+Carlson Homocysteine Guard|see Vitamin B Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012651/
+Carlson Psyllium|see Laxative, Bulk-forming |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010873/
+Carlson Vitamin D|see Vitamin D |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012661/
+Carmustine||
+Carmustine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009474/
+Carmustine|Implant)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009473/
+Carnitor|see Levocarnitine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001048/
+Carnitor|see Levocarnitine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010906/
+Carnitor|see Levocarnitine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010905/
+Carrington Antifungal|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Carrington Antifungal|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+Carteolol||
+Carteolol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009476/
+Carteolol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009477/
+Carvedilol|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009479/
+Casodex|see Bicalutamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009290/
+Caspofungin|Into a vein) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009482/
+Castor Oil/Peru Balsam/Trypsin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009483/
+Cat Hair Extract|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009484/
+Cathflo Activase|see Alteplase, Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008901/
+Caverject|see Alprostadil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000066/
+Caverject|see Alprostadil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008898/
+Caverject|see Alprostadil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025223/
+CaviRinse|see Sodium Fluoride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012157/
+Cavilon Durable Barrier|see Dimethicone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009960/
+Cayston|see Aztreonam)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000194/
+Cayston|see Aztreonam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009188/
+Caziant|see Desogestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009865/
+Cea-Scan|see Arcitumomab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009095/
+Ceenu|see Lomustine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010977/
+Cefaclor|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009486/
+Cefadroxil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009487/
+Cefazolin||
+Cefazolin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009490/
+Cefazolin|Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009489/
+Cefazolin/Dextrose Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009491/
+Cefdinir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009492/
+Cefditoren Pivoxil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009494/
+Cefepime|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009497/
+Cefixime|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009498/
+Cefonicid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009500/
+Cefoperazone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009501/
+Cefotaxime|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009503/
+Cefotetan|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009505/
+Cefoxitin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009506/
+Cefpodoxime Proxetil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009509/
+Cefprozil|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009510/
+Ceftaroline|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009512/
+Ceftazidime|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009515/
+Ceftazidime/Avibactam|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028319/
+Ceftazidime/Dextrose Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009516/
+Ceftibuten|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009517/
+Ceftolozane and Tazobactam|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024097/
+Ceftriaxone|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009521/
+Cefuroxime|Ceftin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000360/
+Cefuroxime|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009524/
+Cefuroxime|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009522/
+Celecoxib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009526/
+Celestoderm-V|see Betamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000236/
+Celestoderm-V|see Betamethasone Valerate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009275/
+Celestone Soluspan|see Betamethasone Sodium Phosphate/Betamethasone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009274/
+Cellcept|see Mycophenolate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001229/
+Cellcept|see Mycophenolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014593/
+Cellcept|see Mycophenolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014348/
+Cellcept|see Mycophenolate Mofetil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011309/
+Celontin Kapseals|see Methsuximide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011150/
+Cenafed|see Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011888/
+Cenestin|see Estrogen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000685/
+Cenestin|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010194/
+Centany|see Mupirocin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001225/
+Centany|see Mupirocin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011301/
+Cepacol Sore Throat|see Benzocaine/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009240/
+Cepacol Sore Throat|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Cepacol Viractin|see Tetracaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001777/
+Cepacol Viractin|see Tetracaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012367/
+Cephadyn|see Butalbital/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009375/
+Cephalexin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009528/
+Cephapirin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009530/
+Ceprotin|see Protein C, Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011882/
+CeraLyte 50|see Electrolyte Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010084/
+Cerdelga|see Eliglustat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023610/
+Cerebyx|see Fosphenytoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010403/
+Ceredase|see Alglucerase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008869/
+Ceretec|see Technetium Tc 99m Exametazime |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024001/
+Cerezyme|see Imiglucerase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010676/
+Ceritinib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022734/
+Ceron|see Antihistamine/Decongestant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009064/
+Certain Dri|see Aluminum Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008905/
+Certolizumab|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009532/
+Cerubidine|see Daunorubicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009826/
+Cervarix|see Human Papillomavirus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025620/
+Cervidil|see Dinoprostone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009964/
+Cesamet|see Nabilone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011312/
+Ceta Plus|see Hydrocodone/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010590/
+Cetacaine|see Benzocaine/Butamben/Tetracaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009239/
+Cetafen|see Acetaminophen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000015/
+Cetafen|see Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008785/
+Cetirizine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009534/
+Cetirizine/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009536/
+Cetrorelix|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009537/
+Cetuximab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009539/
+Cetylev|see Acetylcysteine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000022/
+Cetylev|see Acetylcysteine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008810/
+Cetylev|see Acetylcysteine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027244/
+Cevimeline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009541/
+Chantix|see Varenicline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012611/
+CharcoCaps|see Activated Charcoal |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008816/
+Chemet|see Succimer |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012224/
+Chenodiol|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009544/
+Cheracol Sore Throat|see Phenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011700/
+Chest Congestion Relief|see Guaifenesin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010512/
+Chest Congestion Relief PE|see Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010515/
+Chewable Vite w/Iron|see Vitamin Combination with Iron, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012657/
+Chigg Away|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009236/
+Children's Alaway|see Ketotifen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001021/
+Children's Alaway|see Ketotifen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Children's Allegra Allergy|see Fexofenadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Children's Allergy|see Diphenhydramine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000586/
+Children's Allergy|see Diphenhydramine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009965/
+Children's Chewable Multivitamins|see Multivitamins, Adult Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011297/
+Children's Claritin|see Loratadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010986/
+Children's Fever Reducer|see Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008789/
+Children's Flonase|see Fluticasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000767/
+Children's Flonase|see Fluticasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021965/
+Children's Ibuprofen|see Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010648/
+Children's Mucinex Multi-Symptom Cold|see Dextromethorphan/Guaifenesin/Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009895/
+Children's Pedia Care|see Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009892/
+Children's Sudafed PE Nasal Decongestant|see Phenylephrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001413/
+Children's Sudafed PE Nasal Decongestant|see Phenylephrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011710/
+Children's Triaminic Cough & Sore Throat|see Acetaminophen/Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008796/
+Children's Xyzal Allergy 24HR|see Levocetirizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010908/
+Chirhostim|see Secretin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012096/
+Chlophedianol|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009546/
+Chlorambucil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009550/
+Chloramphenicol||
+Chloramphenicol|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009552/
+Chloramphenicol|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009553/
+Chloramphenicol|Oral route, Intravenous route, Injection route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009555/
+Chloramphenicol|Otic route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009556/
+Chlordiazepoxide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009557/
+Chlordiazepoxide/Amitriptyline|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009561/
+Chlordiazepoxide/Clidinium|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009562/
+Chlorhexidine||
+Chlorhexidine|Into the mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009563/
+Chlorhexidine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009564/
+Chlorhexidine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009565/
+Chlorhexidine|Periodontal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009566/
+Chloromag|see Parenteral Mineral/Trace Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011598/
+Chlorophyll|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009568/
+Chloroprocaine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009569/
+Chloroquine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009570/
+Chlorothiazide|Chlorothiazide Sodium Novaplus)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000386/
+Chlorothiazide|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009572/
+Chlorothiazide|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009574/
+Chloroxine|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009575/
+Chloroxylenol/Pramoxine|Into the ear)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009577/
+Chlorpheniramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009578/
+Chlorpheniramine/Methscopolamine/Phenylephrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009580/
+Chlorpheniramine/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009581/
+Chlorpromazine||
+Chlorpromazine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009583/
+Chlorpromazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009582/
+Chlorpromazine|Into the rectum)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009584/
+Chlorpropamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009585/
+Chlorthalidone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009587/
+Chlorzoxazone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009589/
+Cholecalciferol|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021864/
+Choledyl Expectorant Elixir|see Oxtriphylline and Guaifenesin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011532/
+Cholera Vaccine, Live|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027861/
+Cholestyramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009594/
+Choletec|see Technetium Tc 99m Mebrofenin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024002/
+Cholic Acid|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025233/
+Choline C 11|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014322/
+Choline Magnesium Trisalicylate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009596/
+Chondrocytes, Autologous Cultured|Implant) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009598/
+Chondroitin Sulfate/Glucosamine Hydrochloride|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009599/
+Chorionic Gonadotropin|Chorex)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000408/
+Chorionic Gonadotropin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009601/
+Chorionic Gonadotropin Alfa, Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009603/
+Chromium Supplement|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009606/
+Chymopapain|Injection route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009607/
+Cialis|see Tadalafil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012283/
+Ciclesonide||
+Ciclesonide|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009608/
+Ciclesonide|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009610/
+Ciclopirox|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009612/
+Cidofovir|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009614/
+Cilostazol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009616/
+Cimetidine||
+Cimetidine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009619/
+Cimetidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009618/
+Cinacalcet|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009620/
+Cinolar|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+Cinolar|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012519/
+Cinoxacin|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009623/
+Cinqair|see Reslizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027566/
+Ciprofloxacin||
+Ciprofloxacin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009625/
+Ciprofloxacin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009624/
+Ciprofloxacin|Into the ear) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009626/
+Ciprofloxacin|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009627/
+Ciprofloxacin|Into the middle ear)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027250/
+Ciprofloxacin Betaine/Ciprofloxacin Hydrochloride|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009634/
+Ciprofloxacin and Hydrocortisone|Otic route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009633/
+Ciprofloxacin/Dexamethasone|Into the ear) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009635/
+Ciprofloxacin/Fluocinolone Acetonide|Into the ear)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027537/
+Cisatracurium|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009636/
+Cisplatin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009637/
+Citalopram|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009639/
+Citanest Forte Dental|see Epinephrine/Prilocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010123/
+Citanest Plain Dental|see Prilocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011833/
+CitraNatal B-Calm|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001529/
+CitraNatal B-Calm|see Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011900/
+Citracal Slow Release|see Magnesium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011026/
+Citrate|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009641/
+Citric Acid/Sodium Bicarbonate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009642/
+Cladribine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009643/
+Claravis|see Isotretinoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010802/
+Clarinex|see Desloratadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009857/
+Clarithromycin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009645/
+Claritin-D|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Clean & Clear Advantage Acne Moisturizer|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Clear Eyes|see Naphazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011334/
+Cleeravue-M|see Minocycline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001197/
+Cleeravue-M|see Minocycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014346/
+Cleeravue-M|see Tetracycline)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001778/
+Cleeravue-M|see Tetracycline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012373/
+Clemastine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009647/
+Clevidipine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009648/
+Climara|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Climara|see Estradiol Patch |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010186/
+Climara Pro|see Estradiol/Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010188/
+Clinacort|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Clindamycin|Cleocin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000437/
+Clindamycin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009651/
+Clindamycin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009650/
+Clindamycin|Into the vagina) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009656/
+Clindamycin|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009652/
+Clindamycin/Tretinoin|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009658/
+Clindoxyl|see Benzoyl Peroxide/Clindamycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009247/
+Clinolipid|see Fat Emulsion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010265/
+Clinoril|see Sulindac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012258/
+Clioquinol|Topical route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009659/
+Clioquinol/Hydrocortisone|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024182/
+Clobazam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009661/
+Clobetasol|Clobetasol Propionate)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000440/
+Clobetasol Propionate|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009664/
+Clocortolone Pivalate|On the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009665/
+Clodronic Acid|Oral route, Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009666/
+Clofarabine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009667/
+Clofazimine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009669/
+Clomiphene|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009673/
+Clomipramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009675/
+Clonazepam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009677/
+Clonidine|Catapres)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000450/
+Clonidine|Absorbed through the skin) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009679/
+Clonidine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009682/
+Clonidine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009680/
+Clonidine/Chlorthalidone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009686/
+Clopidogrel|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009687/
+Clorazepate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009689/
+Clotrimazole||
+Clotrimazole|Into the mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009691/
+Clotrimazole|Into the vagina)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009694/
+Clotrimazole|Topical route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009693/
+Cloxapen|see Penicillin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011640/
+Clozapine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009695/
+Coagadex|see Factor X Human |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027259/
+Coagulation Factor IX Recombinant|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015544/
+Coal Tar|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Coartem|see Artemether/Lumefantrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009111/
+Cobicistat|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023952/
+Cobimetinib|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027252/
+Cocaine|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009701/
+Cod Liver Oil|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009703/
+Codeine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009704/
+Codeine Polistirex/Chlorpheniramine Polistirex|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009707/
+Codeine, Phenylephrine, and Promethazine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022107/
+Coenzyme Q10|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009708/
+Cogentin|see Benztropine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000225/
+Cogentin|see Benztropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009251/
+Cogentin|see Benztropine Mesylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009253/
+Col-Rite|see Laxative, Stool Softeners |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010877/
+ColPrep Kit|see Sodium Sulfate, Potassium Sulfate, and Magnesium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029622/
+Colace|see Laxative, Stimulant Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010876/
+Colazal|see Balsalazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009204/
+Colchicine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009709/
+Colesevelam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009712/
+Colestipol|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009714/
+Colistimethate|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009717/
+Colistin, Neomycin, Thonzonium, and Hydrocortisone|Coly-Mycin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013491/
+Colistin, Neomycin, Thonzonium, and Hydrocortisone|Otic route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009718/
+Colistin/Neomycin/Hydrocortisone|Into the ear) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009719/
+Collagenase||
+Collagenase|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009720/
+Collagenase, Clostridium histolyticum|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009722/
+Collyrium For Fresh Eyes|see Eye Wash |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010247/
+Colobar-100|see Barium Sulfate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000203/
+Colobar-100|see Barium Sulfate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029613/
+Colocort|see Hydrocortisone Enema |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014333/
+Colyte|see Polyethylene Glycol 3350/Electrolytes |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011781/
+Colyte with Flavor Packs|see Laxative, Hyperosmotic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010874/
+Colytrol|see Antimuscarinic Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009066/
+Combigan|see Brimonidine/Timolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009325/
+Combipatch|see Estradiol/Norethindrone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013574/
+Combipatch|see Estradiol/Norethindrone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010189/
+Combivent|see Ipratropium/Albuterol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010776/
+Combivir|see Lamivudine/Zidovudine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010855/
+Combunox|see Oxycodone/Ibuprofen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011545/
+Comfort Pac w/Tizanidine|see Tizanidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012442/
+Comfort Pac with Meloxicam|see Meloxicam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011069/
+Commit|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Commit|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014349/
+Compazine|see Meclizine, Buclizine, and Cyclizine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011055/
+Complera|see Emtricitabine/Rilpivirine/Tenofovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010096/
+Compliments Bismuth - Regular Strength|see Bismuth Subsalicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009300/
+Compro|see Prochlorperazine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001497/
+Compro|see Prochlorperazine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011852/
+Comtan|see Entacapone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010110/
+Comvax|see Haemophilus B Conjugate Vaccine/Hepatitis B Vaccine Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010530/
+ConZip|see Tramadol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012486/
+Conceptrol|see Nonoxynol 9 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011443/
+Concerta|see Methylphenidate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001174/
+Concerta|see Methylphenidate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011170/
+Condyline|see Podofilox |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011769/
+Conivaptan|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009723/
+Conjugated Estrogens||
+Conjugated Estrogens|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009727/
+Conjugated Estrogens|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009725/
+Conjugated Estrogens|Into the vagina)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009730/
+Conjugated Estrogens Synthetic A|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025604/
+Conjugated Estrogens Synthetic B|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025605/
+Conjugated Estrogens and Bazedoxifene|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021865/
+Conjugated Estrogens/Medroxyprogesterone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009732/
+Constulose|see Lactulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010851/
+Contrast Allergy PreMed Pack|see Prednisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011828/
+Contrave|see Naltrexone and Bupropion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023614/
+Convenience Pak|see Gabapentin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010419/
+Convenience Pak|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+Convenience Pak|see Lidocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010935/
+Copaxone|see Glatiramer |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010472/
+Copegus|see Ribavirin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001574/
+Copegus|see Ribavirin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011979/
+Copper Supplement|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009734/
+Cordarone|see Amiodarone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000087/
+Cordarone|see Amiodarone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008940/
+Cordarone IV|see Amiodarone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008941/
+Cordema|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+Cordema|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028325/
+Cordran|see Flurandrenolide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010351/
+Corgard|see Nadolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011316/
+Corifact|see Factor XIII |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022566/
+Corlanor|see Ivabradine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025249/
+Corlopam|see Fenoldopam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010278/
+Corphedra|see Ephedrine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000654/
+Corphedra|see Ephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029616/
+Correctol|see Bisacodyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009297/
+Correctol|see Laxative, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010875/
+Correctol Herbal Tea Laxative|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+Cort-Biotic|see Neomycin, Polymyxin B, and Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013652/
+Cort-Biotic|see Neomycin/Polymyxin B/Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011382/
+Cort-Eze|see Hydrocortisone Butyrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010602/
+Cort-Eze|see Hydrocortisone Probutate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010603/
+Cortef|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010594/
+Corticorelin Ovine Triflutate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009735/
+Corticotropin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009747/
+Cortifoam|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010598/
+Cortisone Acetate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009749/
+Cortisporin|see Neomycin, Polymyxin B, and Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011379/
+Corvert|see Ibutilide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010657/
+Corvite FE|see Iron Supplements |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010786/
+Corzide|see Nadolol/Bendroflumethiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011319/
+Cosentyx|see Secukinumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024191/
+Cosmegen|see Dactinomycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009797/
+Cosopt|see Dorzolamide/Timolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010024/
+Cosyntropin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009750/
+Cotolone|see Prednisolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001486/
+Cotolone|see Prednisolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011824/
+Coumadin|see Warfarin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001928/
+Coumadin|see Warfarin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012678/
+Covaryx|see Esterified Estrogens/Methyltestosterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010177/
+Covaryx|see Estrogen/Androgen Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010198/
+Cozaar|see Losartan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010993/
+Creon|see Pancrelipase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011575/
+Cresemba|see Isavuconazonium)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025102/
+Cresemba|see Isavuconazonium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025246/
+Cresemba|see Isavuconazonium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025247/
+Crestor|see Rosuvastatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012047/
+Crinone|see Progesterone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001499/
+Crinone|see Progesterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011856/
+Crisaborole|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029538/
+Critic-Aid Skin Care Pack|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Crixivan|see Indinavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010696/
+Crizotinib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009752/
+Crofelemer|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014574/
+Cromolyn|Crolom)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000484/
+Cromolyn|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009754/
+Cromolyn|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009755/
+Cromolyn|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009757/
+Cromolyn|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009758/
+Crotalidae immune F|ab)2 |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025606/
+Crotamiton|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009762/
+Cryselle|see Ethinyl Estradiol/Norgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010219/
+Cubicin|see Daptomycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009816/
+Culturelle|see Probiotic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011842/
+Cuprimine|see Penicillamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011638/
+Curity Amniocentesis Tray|see Lidocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010931/
+Curosurf|see Poractant Alfa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011786/
+Cushings Syndrome Diagnostic|see Dexamethasone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000542/
+Cushings Syndrome Diagnostic|see Dexamethasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009872/
+Cutivate|see Fluticasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010363/
+Cuvitru|see Immune Globulin Subcutaneous |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010686/
+Cuvposa|see Glycopyrrolate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000827/
+Cuvposa|see Glycopyrrolate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010492/
+Cyanocobalamin|Vitamin B-12)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000487/
+Cyanocobalamin|Vitamin B-12) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009764/
+Cyanocobalamin|Vitamin B-12) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009765/
+Cyanokit|see Hydroxocobalamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010618/
+Cyclandelate|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009766/
+Cyclobenzaprine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009767/
+Cyclocort|see Amcinonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008913/
+Cyclogyl|see Atropine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000177/
+Cyclogyl|see Atropine, Homatropine, and Scopolamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009153/
+Cyclogyl|see Scopolamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001627/
+Cyclopentolate|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009769/
+Cyclopentolate/Phenylephrine|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009771/
+Cyclophosphamide||
+Cyclophosphamide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009773/
+Cyclophosphamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009772/
+Cyclophosphamide|Oral route, Intravenous route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009774/
+Cycloserine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009775/
+Cycloset|see Bromocriptine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009330/
+Cyclosporine||
+Cyclosporine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009778/
+Cyclosporine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009777/
+Cyclosporine|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009779/
+Cyklokapron|see Tranexamic Acid)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001840/
+Cyklokapron|see Tranexamic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012495/
+Cymbalta|see Duloxetine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010059/
+Cyproheptadine Hydrochloride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009782/
+Cyproterone|Oral route, Intramuscular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009783/
+Cyramza|see Ramucirumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022574/
+Cystadane|see Betaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009265/
+Cysteamine|Cystagon)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000497/
+Cysteamine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009784/
+Cysteamine|Ophthalmic route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014326/
+Cystografin|see Diatrizoate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025612/
+Cysview|see Hexaminolevulinate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010559/
+Cytadren|see Aminoglutethimide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008930/
+Cytarabine||
+Cytarabine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009788/
+Cytarabine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009789/
+Cytarabine, Liposome|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009791/
+Cytomegalovirus Immune Globulin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009792/
+Cytomel|see Liothyronine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001064/
+Cytomel|see Liothyronine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010962/
+Cytomel|see Thyroid Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012408/
+Cytotec|see Misoprostol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011244/
+Cytovene IV|see Ganciclovir)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000809/
+Cytovene IV|see Ganciclovir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010445/

@@ -1,0 +1,365 @@
+drug|other_text|link
+FE C Tab Plus|see Vitamin B with Iron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012652/
+FE C Tab Plus|see Vitamin B/Iron/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012654/
+FaBB|see Vitamin B Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012649/
+Fabior|see Tazarotene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012296/
+Fabrazyme|see Agalsidase Beta |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008840/
+Factive|see Gemifloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010459/
+Factor IX Albumin Fusion Protein Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027928/
+Factor IX Complex||
+Factor IX Complex Human|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010255/
+Factor IX Complex, Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018926/
+Factor IX Fc Fusion Protein Recombinant|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022565/
+Factor IX Human, Purified|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010257/
+Factor VIIa Complex, Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018927/
+Factor X Human|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027259/
+Factor XIII|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022566/
+Factrel|see Gonadorelin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010500/
+Falessa|see Estradiol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000681/
+Falessa|see Estradiol/Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013572/
+Falessa|see Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001055/
+Falessa|see Levonorgestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010923/
+Fallback Solo|see Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010919/
+Famciclovir|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010260/
+Family Pharmacy Calcium 500|see Antacid, Calcium Containing |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009025/
+Family Pharmacy Iron Tablets|see Iron Supplements |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010786/
+Famotidine||
+Famotidine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010263/
+Famotidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010262/
+Fanapt|see Iloperidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010670/
+Fansidar|see Sulfadoxine/Pyrimethamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012239/
+Fareston|see Toremifene)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001833/
+Fareston|see Toremifene |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012477/
+Fareston|see Toremifene Citrate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012478/
+Farxiga|see Dapagliflozin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021959/
+Farydak|see Panobinostat |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024626/
+Fastin|see Phentermine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011706/
+Fat Emulsion|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010265/
+Father John's Medicine|see Dextromethorphan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009892/
+FazaClo|see Clozapine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009695/
+Febuxostat|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010267/
+Feiba NF|see Anti-inhibitor Coagulant Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009032/
+Felbamate|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010269/
+Feldene|see Piroxicam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011755/
+Felodipine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010271/
+Femara|see Letrozole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010887/
+Femhrt|see Estradiol/Norethindrone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013574/
+Femhrt|see Ethinyl Estradiol/Norethindrone Acetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010217/
+Femiron|see Iron Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010785/
+Femring|see Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010183/
+Femring|see Estrogen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000685/
+Femring|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010195/
+Femtrace|see Estrogen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010194/
+Femynor|see Estradiol/Norgestimate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013575/
+Femynor|see Ethinyl Estradiol/Norgestimate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010218/
+Fenfluramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010273/
+Fenicol|see Chloramphenicol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000378/
+Fenicol|see Chloramphenicol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009553/
+Fenofibrate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010274/
+Fenofibric acid|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010276/
+Fenoldopam|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010278/
+Fenoprofen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010279/
+Fentanyl||
+Fentanyl|Absorbed through the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010281/
+Fentanyl|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010284/
+Fentanyl|Into the mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010285/
+Fentanyl|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010286/
+Fentanyl/Sodium Chloride Premix|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010289/
+Feraheme|see Parenteral Mineral/Trace Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011598/
+Ferric Carboxymaltose|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018929/
+Ferric Citrate|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023611/
+Ferriprox|see Deferiprone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009838/
+Ferrlecit|see Sodium Ferric Gluconate Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012155/
+Fertinex|see Urofollitropin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012575/
+Ferumoxytol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010290/
+Fesoterodine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010292/
+Fetzima|see Levomilnacipran |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018934/
+Fever Reducer|see Acetaminophen)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000015/
+Fever Reducer|see Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008789/
+Fexmid|see Cyclobenzaprine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009767/
+Fexofenadine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010294/
+Fexofenadine/Pseudoephedrine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010297/
+Fiber|see Laxative, Bulk-forming |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010873/
+Fibrin Sealant|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025617/
+Fibrinogen|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021838/
+Fibrinogen and Thrombin, Human|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028322/
+Fibrinogen/Thrombin, Human||
+Fibrinogen/Thrombin, Human|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028323/
+Fidaxomicin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010298/
+Filgrastim|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010301/
+Finacea|see Azelaic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009168/
+Finafloxacin|Otic route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024098/
+Finasteride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010302/
+Fingolimod|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010304/
+Fioricet|see Butalbital/Acetaminophen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009375/
+Fioricet|see Butalbital/Acetaminophen/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009376/
+Fioricet with Codeine|see Butalbital/Acetaminophen/Caffeine/Codeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009377/
+Fiorinal|see Butalbital and Aspirin Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009371/
+Fiorinal|see Butalbital/Aspirin/Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009378/
+Fiorinal w/Codeine|see Butalbital/Aspirin/Caffeine/Codeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015538/
+Firazyr|see Icatibant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010658/
+Firmagon|see Degarelix |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009842/
+First - Lansoprazole|see Lansoprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010860/
+First - Omeprazole|see Omeprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011495/
+First-BXN Mouthwash|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+First-BXN Mouthwash|see Lidocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025251/
+First-BXN Mouthwash|see Nystatin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001296/
+First-BXN Mouthwash|see Nystatin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011454/
+First-Hydrocortisone|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+First-Hydrocortisone|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+First-Progesterone VGS|see Progestin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011857/
+First-Progesterone VGS 100|see Progesterone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001499/
+First-Progesterone VGS 100|see Progesterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011856/
+First-Testosterone|see Testosterone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001771/
+First-Testosterone|see Testosterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012356/
+Flagyl|see Metronidazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001181/
+Flagyl|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011192/
+Flagyl|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011199/
+Flagyl I.V.|see Metronidazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011193/
+Flamazine|see Silver Sulfadiazine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012120/
+Flanax Pain Relief Kit|see Naproxen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011337/
+Flavocoxid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010306/
+Flavoxate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010308/
+Flebogamma 10% DIF|see Immune Globulin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000931/
+Flebogamma 10% DIF|see Immune Globulin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Flecainide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010310/
+Flector|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Flector|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021836/
+Flector|see Diclofenac Patch |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009925/
+Fleet Bisacodyl|see Bisacodyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009297/
+Fleet Bisacodyl|see Laxative, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010875/
+Fleet Bisacodyl Enema|see Laxatives, Stimulant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010878/
+Fleet Glycerin Suppositories|see Glycerin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000825/
+Fleet Glycerin Suppositories|see Glycerin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010490/
+Fleet Phospho-soda EZ-Prep|see Phosphate Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011727/
+Fleet Phospho-soda EZ-Prep|see Sodium Phosphate Dibasic/Sodium Phosphate Monobasic |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012174/
+Fleet Sof-Lax|see Laxative, Stool Softeners |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010877/
+Fletcher's Castoria|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+FlexPower|see Trolamine Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012549/
+Flexall 454 Maximum Strength|see Menthol/Methyl Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011085/
+Flexbumin|see Albumin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008845/
+Flibanserin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027018/
+Flo-Pred|see Prednisolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001486/
+Flo-Pred|see Prednisolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011824/
+Flolan|see Epoprostenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010130/
+Flomax|see Tamsulosin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012292/
+Florbetaben F 18|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028324/
+Florbetapir F-18|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010312/
+Florical|see Mineral Supplement Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011232/
+Floriva|see Vitamin/Fluoride Combination, Pediatric Formula |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012666/
+Florone|see Diflorasone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009938/
+Flowtuss|see Guaifenesin/Hydrocodone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013611/
+Flowtuss|see Guaifenesin/Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010514/
+Floxin|see Ofloxacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001299/
+Floxin|see Ofloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011466/
+Floxin|see Ofloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011468/
+Floxuridine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010315/
+FluLaval Quadrivalent 2015-2016 Formula|see Influenza Vaccine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014206/
+FluLaval Quadrivalent 2015-2016 Formula|see Influenza Virus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010716/
+FluMist Quadrivalent|see Influenza Virus Vaccine, Live |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010718/
+FluMist Quadrivalent|see Influenza Virus Vaccine, Live |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010719/
+FluTuss XP|see Guaifenesin and Hydrocodone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024099/
+Flublok|see Influenza Virus Vaccine Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014587/
+Fluciclovine F 18|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027864/
+Fluconazole||
+Fluconazole|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010317/
+Fluconazole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010316/
+Flucytosine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010320/
+Fludarabine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010323/
+Fludeoxyglucose F 18|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010326/
+Fludrocortisone|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010328/
+Fludrocortisone Acetate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010329/
+Flumadine|see Rimantadine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012005/
+Flumazenil|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010330/
+Flunisolide||
+Flunisolide|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010331/
+Flunisolide|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010332/
+Fluocinolone||
+Fluocinolone|Intraocular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023962/
+Fluocinolone|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010333/
+Fluocinolone Acetonide|Into the ear)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010334/
+Fluocinolone Acetonide|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010335/
+Fluocinolone, Hydroquinone, and Tretinoin|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014578/
+Fluocinonide|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010336/
+Fluor-A-Day|see Sodium Fluoride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012157/
+Fluorescein|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010338/
+Fluorometholone|Into the eye) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010341/
+Fluorouracil||
+Fluorouracil|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010342/
+Fluorouracil|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010344/
+Fluoxetine|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010346/
+Fluoxymesterone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010348/
+Fluphenazine||
+Fluphenazine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010349/
+Fluphenazine Hydrochloride|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010350/
+Flurandrenolide|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010351/
+Flurazepam|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010353/
+Flurbiprofen||
+Flurbiprofen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010355/
+Flurbiprofen|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010356/
+Flurbiprofen|Ophthalmic route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014331/
+Flutamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010358/
+Flutemetamol F 18|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021839/
+Fluticasone||
+Fluticasone|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010360/
+Fluticasone|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021965/
+Fluticasone|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010363/
+Fluticasone/Salmeterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010369/
+Fluticasone/Vilanterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015554/
+Fluvastatin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010370/
+Fluvoxamine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010372/
+Foaming Antacid|see Antacid, Aluminum and Magnesium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009022/
+Focalin|see Dexmethylphenidate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009883/
+Folast|see Vitamin B Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012651/
+Folbee Plus|see Vitamin B/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012655/
+Folic Acid|FA-8)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000772/
+Folic Acid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010375/
+Folic Acid|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010374/
+Folic Acid/Cyanocobalamin|Vitamin B12)/Pyridoxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010377/
+Follicle Stimulating Hormone and Luteinizing Hormone|Intramuscular route, Subcutaneous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010378/
+Follitropin Alfa|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010379/
+Follitropin Beta|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010381/
+Folotyn|see Pralatrexate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011802/
+Fomepizole|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010383/
+Fomivirsen|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010384/
+Fondaparinux|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010386/
+Forfivo XL|see Bupropion |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009361/
+Formoterol|By breathing) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010388/
+Formula E 400|see Vitamin E |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012663/
+Formula EM|see Dextrose/Fructose/Phosphoric Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009902/
+Fortamet|see Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011121/
+Fortaz|see Ceftazidime |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009515/
+Fortaz|see Ceftazidime/Dextrose Premix |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009516/
+Fortaz|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Forteo|see Teriparatide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012346/
+Fortical|see Calcitonin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000295/
+Fortical|see Calcitonin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009404/
+Fosamax|see Alendronate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008861/
+Fosamax Plus D|see Alendronate/Cholecalciferol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008864/
+Fosamprenavir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010390/
+Fosaprepitant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010392/
+Foscarnet|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010394/
+Fosfomycin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010396/
+Fosinopril|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010398/
+Fosinopril/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010401/
+Fosphenytoin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010403/
+Fospropofol|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010404/
+Fosrenol|see Lanthanum |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024186/
+Fostex Cream|see Salicylic Acid/Sulfur |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012071/
+Fototar|see Coal Tar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Fragmin|see Dalteparin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009801/
+Freeze It|see Camphor/Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009419/
+Freezone|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+FreshKote|see Eye Lubricant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010246/
+Frovatriptan|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010407/
+Fulvestrant|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010410/
+Fulvicin P/G|see Griseofulvin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010509/
+Fungi-Guard|see Tolnaftate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012464/
+Fungizone|see Amphotericin B |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008975/
+Fungoid|see Miconazole)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001187/
+Fungoid|see Miconazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011212/
+Furacin|see Nitrofurazone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011430/
+Furadantin|see Nitrofurantoin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001276/
+Furadantin|see Nitrofurantoin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011426/
+Furazolidone|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010413/
+Furosemide||
+Furosemide|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010415/
+Furosemide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010414/
+FusePaq Fanatrex|see Gabapentin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010419/
+FusePaq Synapryn|see Tramadol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012486/
+Fusidic Acid|Oral route, Injection route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010418/
+Fusilev|see Levoleucovorin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010917/
+Fuzeon|see Enfuvirtide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010106/
+Fycompa|see Perampanel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014601/

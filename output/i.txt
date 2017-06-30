@@ -1,0 +1,360 @@
+drug|other_text|link
+IDkit Hp|see 13C Urea and Citric Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025222/
+IS 24/6|see Vitamin B with Iron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012652/
+IV Infusion CPI|see Lidocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001058/
+IV Infusion CPI|see Lidocaine and Prilocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0013671/
+IV Infusion CPI|see Lidocaine/Prilocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010945/
+IV Infusion CPI|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+IV Infusion CPI|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012151/
+Ibandronate||
+Ibandronate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010643/
+Ibandronate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010642/
+Ibrance|see Palbociclib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0024625/
+Ibritumomab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010646/
+Ibrutinib|Oral route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021842/
+Ibuprofen||
+Ibuprofen|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010649/
+Ibuprofen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010648/
+Ibuprofen Lysine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010653/
+Ibuprofen/Famotidine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010655/
+Ibuprofen/Hydrocodone|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010656/
+Ibutilide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010657/
+Icar-C Plus|see Vitamin B/Iron/Vitamin C |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012654/
+Icatibant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010658/
+Iclusig|see Ponatinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014605/
+Icodextrin|Into the abdomen)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010660/
+Icosapent Ethyl|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014334/
+Icy Hot|see Menthol/Methyl Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011085/
+Icy Hot Arthritis Therapy|see Capsaicin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009431/
+Idarubicin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010661/
+Idarucizumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027263/
+Idelalisib|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023569/
+Idelvion|see Factor IX Albumin Fusion Protein Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027928/
+Idelvion|see Factor IX Complex, Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018926/
+Idursulfase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010665/
+Ifosfamide|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010667/
+Ilaris|see Canakinumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009420/
+Ilevro|see Nepafenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011387/
+Iloperidone|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010670/
+Iloprost|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010672/
+Ilosone|see Erythromycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000673/
+Ilosone|see Erythromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010153/
+Ilotycin|see Erythromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010155/
+Iluvien|see Fluocinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000751/
+Iluvien|see Fluocinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023962/
+Iluvien|see Fluocinolone Acetonide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010335/
+Imatinib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010674/
+Imiglucerase|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010676/
+Imipenem/Cilastatin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010679/
+Imipramine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010680/
+Imiquimod|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010682/
+Imitrex|see Sumatriptan)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001727/
+Imitrex|see Sumatriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012261/
+Imitrex|see Sumatriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012260/
+Imitrex|see Sumatriptan |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012262/
+Imlygic|see Talimogene Laherparepvec |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027284/
+Immune Globulin||
+Immune Globulin|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010684/
+Immune Globulin Bovine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023487/
+Immune Globulin Subcutaneous|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010686/
+Immune Globulin and Hyaluronidase|Subcutaneous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023612/
+Imodium|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Imodium Multi-Symptom Relief|see Loperamide/Simethicone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010981/
+Imovax Rabies|see Rabies Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011927/
+Impavido|see Miltefosine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022109/
+Implanon|see Etonogestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010230/
+Imuran|see Azathioprine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000185/
+Imuran|see Azathioprine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009165/
+Imuran|see Azathioprine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009164/
+In A Wink Daily Cleaner|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028325/
+Inapsine|see Droperidol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010050/
+Incivek|see Telaprevir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012308/
+IncobotulinumtoxinA|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010689/
+Increlex|see Mecasermin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011049/
+Incruse Ellipta|see Umeclidinium |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0022739/
+Indacaterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010691/
+Indacaterol/Glycopyrrolate|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027264/
+Indapamide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010693/
+Inderal|see Propranolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001511/
+Inderal|see Propranolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011874/
+Inderal|see Propranolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011873/
+Inderide|see Propranolol/Hydrochlorothiazide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011878/
+Indigotindisulfonate|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010695/
+Indinavir|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010696/
+Indium In 111 Capromab Pendetide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010698/
+Indium In 111 Chloride|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010699/
+Indium In 111 Oxyquinoline|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010700/
+Indium In 111 Pentetate Disodium|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010701/
+Indium In 111 Pentetreotide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010702/
+Indocyanine Green|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027265/
+Indomethacin|Indocid)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000945/
+Indomethacin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010704/
+Indomethacin|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010703/
+Indomethacin|Into the rectum) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028078/
+Infanrix|see Diphtheria, Tetanus, and Acellular Pertussis Booster Vaccine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014708/
+Infanrix|see Diphtheria, Tetanus, and Acellular Pertussis Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009979/
+Infanrix|see Diphtheria/Acellular Pertussis/Tetanus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009981/
+Infants' Gas Relief|see Simethicone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012122/
+Infasurf|see Calfactant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009417/
+Infed|see Parenteral Mineral/Trace Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011598/
+Inflamma-K|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Inflamma-K|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009920/
+Inflammacin|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009918/
+Infliximab|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010708/
+Influenza A Virus Vaccine, H1N1, Inactivated|Intramuscular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010711/
+Influenza Vaccine||
+Influenza Virus Vaccine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010716/
+Influenza Virus Vaccine Recombinant|Intramuscular route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014587/
+Influenza Virus Vaccine, Live|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010718/
+Influenza Virus Vaccine, Live|Nasal route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010719/
+Infumorph|see Morphine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001216/
+Infumorph|see Morphine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011276/
+Infuvite|see Multivitamin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011294/
+Ingenol|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010720/
+Injectafer|see Ferric Carboxymaltose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018929/
+Inlyta|see Axitinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009160/
+Innerclean|see Senna |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029545/
+Innohep|see Tinzaparin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012432/
+Inomax|see Nitric Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011425/
+Inspra|see Eplerenone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010126/
+Insta-Glucose|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Insta-Glucose|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009897/
+Insta-Glucose|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029615/
+Instacort-10|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Instacort-10|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Insulin|Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010723/
+Insulin Aspart||
+Insulin Aspart Protamine/Insulin Aspart|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010725/
+Insulin Aspart, Recombinant|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010726/
+Insulin Aspart/Insulin Degludec|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027266/
+Insulin Degludec|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027267/
+Insulin Degludec/Liraglutide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029482/
+Insulin Detemir|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010728/
+Insulin Glargine, Recombinant|Subcutaneous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010731/
+Insulin Glargine/Lixisenatide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029484/
+Insulin Glulisine|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010732/
+Insulin Human Inhaled|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023488/
+Insulin Lispro||
+Insulin Lispro|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010736/
+Insulin Lispro Protamine/Insulin Lispro|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010739/
+Insulin NPH|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027553/
+Insulin NPH/Regular|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010740/
+Insulin Regular|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027554/
+Intal|see Cromolyn)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000484/
+Intal|see Cromolyn |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009754/
+Integrilin|see Eptifibatide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010136/
+Intelence|see Etravirine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010237/
+Interarticular Joint Kit|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+Interarticular Joint Kit|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Interferon Alfa-2b|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010742/
+Interferon Alfa-n3|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010743/
+Interferon Beta-1a|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010746/
+Interferon Beta-1b|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010748/
+Interferon Gamma-1b|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010751/
+Intermezzo|see Zolpidem)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001948/
+Intermezzo|see Zolpidem |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012722/
+Intestinex|see Lactobacillus Acidophilus |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029618/
+Intralipid|see Parenteral Lipid Solutions |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011597/
+Intrarosa|see Prasterone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029486/
+Intuniv|see Guanfacine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010523/
+Inulin|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010752/
+Invega|see Paliperidone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001338/
+Invega|see Paliperidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011564/
+Invega Sustenna|see Paliperidone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011565/
+Invirase|see Saquinavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012080/
+Invokamet|see Canagliflozin and Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023566/
+Invokana|see Canagliflozin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015540/
+Iobenguane I 123|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010753/
+Iobenguane I 131|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010755/
+Iodine|Topical route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010757/
+Iodixanol|Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025622/
+Iodoquinol|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010760/
+Ioflupane I 123|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010762/
+Iohexol|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0018932/
+Ionamin|see Phentermine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011706/
+Ionil|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Ionil-T|see Coal Tar |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009699/
+Ionosol B/5% Dextrose|see Parenteral Electrolyte Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011593/
+Ionsys|see Fentanyl)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000728/
+Ionsys|see Fentanyl |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010281/
+Iopamidol|Injection route) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025624/
+Iopidine|see Apraclonidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009090/
+Iopromide|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014338/
+Ioversol|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0028079/
+Ipecac Syrup|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010768/
+Ipilimumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010769/
+Ipol|see Poliovirus Vaccine Inactivated |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011774/
+Ipratropium||
+Ipratropium|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010771/
+Ipratropium|Inhalation route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010772/
+Ipratropium|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010773/
+Ipratropium/Albuterol|By breathing)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010776/
+Iprivask|see Desirudin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009855/
+Iquix|see Levofloxacin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001051/
+Iquix|see Levofloxacin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010913/
+Irbesartan|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010777/
+Irbesartan/Hydrochlorothiazide|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010780/
+Irenka|see Duloxetine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010059/
+Iressa|see Gefitinib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027019/
+Irinotecan|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010781/
+Irinotecan Liposome|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027268/
+Iron Dextran|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010783/
+Iron Sucrose|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010784/
+Iron Supplement|Oral route, Parenteral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010785/
+Iron Supplements|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010786/
+Isavuconazonium||
+Isavuconazonium|Intravenous route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025246/
+Isavuconazonium|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025247/
+Isentress|see Raltegravir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011938/
+Ismelin|see Guanethidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010521/
+Isocarboxazid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010788/
+Isodettes Sore Throat|see Phenol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011700/
+Isolyte S pH 7.4|see Parenteral Electrolyte/Mineral Combination |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011596/
+IsonaRif|see Rifampin/Isoniazid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011991/
+Isoniazid||
+Isoniazid|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010791/
+Isoniazid|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010790/
+Isoproterenol|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010794/
+Isoptin SR|see Verapamil)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001906/
+Isoptin SR|see Verapamil |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012625/
+Isopto Atropine|see Atropine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000177/
+Isopto Atropine|see Atropine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009152/
+Isopto Atropine|see Atropine, Homatropine, and Scopolamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009153/
+Isopto Atropine|see Scopolamine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001627/
+Isopto Carpine|see Pilocarpine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001425/
+Isopto Carpine|see Pilocarpine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011733/
+Isopto Eserine|see Physostigmine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011728/
+Isopto Fenicol|see Chloramphenicol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000378/
+Isopto Fenicol|see Chloramphenicol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009553/
+Isopto Tears|see Hypromellose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000912/
+Isopto Tears|see Hypromellose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010639/
+Isosorbide Dinitrate|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010795/
+Isosorbide Dinitrate/Hydralazine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010797/
+Isosorbide Mononitrate|By mouth) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010798/
+Isosulfan Blue|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010800/
+Isotretinoin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010802/
+Isoxsuprine||
+Isoxsuprine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010804/
+Isoxsuprine|Oral route, Injection route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010805/
+Isradipine|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010806/
+Istalol|see Timolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001810/
+Istalol|see Timolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012425/
+Istodax|see Romidepsin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012032/
+Itraconazole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010808/
+Ivabradine|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025249/
+Ivacaftor|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010811/
+Ivermectin||
+Ivermectin|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010812/
+Ivermectin|Topical application route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010815/
+Ivy Block|see Bentoquatam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009232/
+Ixabepilone|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010816/
+Ixazomib|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027269/
+Ixekizumab|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027555/
+Ixiaro|see Japanese Encephalitis Virus Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027557/
+Ixinity|see Coagulation Factor IX Recombinant |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015544/
+Ixinity|see Factor IX Complex)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000712/
+Izba|see Travoprost |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012502/

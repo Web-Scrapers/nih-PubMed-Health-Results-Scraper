@@ -1,0 +1,122 @@
+drug|other_text|link
+K+Care ET|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011799/
+K-99|see Potassium Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011798/
+K-Mag-60|see Electrolyte/Mineral Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010085/
+K-Phos Neutral|see Phosphate Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011726/
+K-Phos Neutral|see Phosphate Supplement |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011727/
+K-Phos Neutral|see Potassium and Sodium Phosphate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011791/
+K-Sol|see Potassium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011792/
+K1-1000|see Phytonadione)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001424/
+K1-1000|see Phytonadione |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011730/
+Kabiven|see Dextrose)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000555/
+Kabiven|see Dextrose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009898/
+Kabiven|see Parenteral Lipid Solutions |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011597/
+Kadcyla|see Ado-Trastuzumab Emtansine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015522/
+Kadian|see Morphine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001216/
+Kadian|see Morphine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011277/
+Kadian|see Morphine, Slow Release |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011282/
+Kalbitor|see Ecallantide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010069/
+Kaletra|see Lopinavir/Ritonavir |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010983/
+Kalydeco|see Ivacaftor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010811/
+Kanamycin|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010823/
+Kank-A Soft Brush|see Benzocaine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000219/
+Kank-A Soft Brush|see Benzocaine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009234/
+Kanuma|see Sebelipase Alfa |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027278/
+Kao-Con|see Activated Charcoal |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008816/
+Kao-Paverin Caps|see Loperamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010979/
+Kao-Tin|see Bismuth Subsalicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009300/
+Kaopectate|see Salicylate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012066/
+Kapidex|see Dexlansoprazole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009880/
+Kapvay|see Clonidine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000450/
+Kapvay|see Clonidine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009680/
+Karbinal ER|see Carbinoxamine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009450/
+Kariva|see Desogestrel/Ethinyl Estradiol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009865/
+Kayexalate|see Sodium Polystyrene Sulfonate)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001677/
+Kayexalate|see Sodium Polystyrene Sulfonate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012177/
+Kazano|see Alogliptin and Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014568/
+Kcentra|see Prothrombin Complex |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0015576/
+Kedbumin|see Albumin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008845/
+Keep Alert|see Caffeine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000290/
+Keep Alert|see Caffeine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009392/
+Keflex|see Cephalexin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009528/
+Kelnor 1/35|see Ethinyl Estradiol/Ethynodiol Diacetate |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010215/
+Kenalog|see Triamcinolone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001847/
+Kenalog|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012519/
+Kenalog-10|see Triamcinolone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012517/
+Kendall Sodium Chloride Flush Syringe|see Sodium Chloride)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001658/
+Kendall Sodium Chloride Flush Syringe|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012151/
+Kendall Soothing Ointment|see Zinc Oxide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012707/
+Kengreal|see Cangrelor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025430/
+Kepivance|see Palifermin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011562/
+Keppra|see Levetiracetam)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001045/
+Keppra|see Levetiracetam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010899/
+Keppra|see Levetiracetam |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010898/
+Kerafoam|see Urea)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001880/
+Kerafoam|see Urea |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012573/
+Keralyt|see Salicylic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012067/
+Keratol HC|see Hydrocortisone)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000888/
+Keratol HC|see Hydrocortisone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010596/
+Kerlone|see Betaxolol)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000242/
+Kerlone|see Betaxolol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009278/
+Kerr Triple Dye|see Brilliant Green/Gentian Violet/Proflavine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009321/
+Kerydin|see Tavaborole |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023498/
+Ketamine|By injection) |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010825/
+Ketek|see Telithromycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012313/
+Ketoconazole||
+Ketoconazole|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010826/
+Ketoconazole|On the skin)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010827/
+Ketoprofen|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010830/
+Ketorolac||
+Ketorolac|By injection)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010833/
+Ketorolac|By mouth)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010832/
+Ketorolac|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010834/
+Ketorolac|Into the nose)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010835/
+Ketotifen||
+Ketotifen|Into the eye)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010839/
+Ketotifen|Oral route)
+|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010841/
+Keveyis|see Dichlorphenamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027013/
+Key-E|see Vitamin E |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012663/
+Keytruda|see Pembrolizumab |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023617/
+Khedezla|see Desvenlafaxine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009870/
+Kineret|see Anakinra |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0008999/
+Kinevac|see Sincalide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012128/
+Kinrix|see Diphtheria/Tetanus/Acellular Pertussis/Polio Vaccine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009985/
+Kirkland Signature AllerClear-D|see Loratadine/Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010987/
+Kisqali|see Ribociclib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0029992/
+Kitabis Pak|see Tobramycin)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001820/
+Kitabis Pak|see Tobramycin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012444/
+Klaron|see Sulfacetamide)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001713/
+Klaron|see Sulfacetamide |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012232/
+Klofensaid II|see Diclofenac)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000561/
+Klofensaid II|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009920/
+Klofensaid II|see Diclofenac |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0021836/
+Koala Pals Fluoride Tooth Gel - Berrylicious Flavor|see Sodium Fluoride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012157/
+Koate|see Antihemophilic Factor |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0009047/
+Kodet Se|see Pseudoephedrine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011888/
+Koldets Cough Suppresant|see Menthol |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011084/
+Kombiglyze XR|see Saxagliptin/Metformin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012087/
+Korlym|see Mifepristone |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011221/
+Kovanaze|see Tetracaine/Oxymetazoline |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0027935/
+Kristalose|see Lactulose |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010851/
+Kroger Nicotine Transdermal System|see Nicotine)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001266/
+Kroger Nicotine Transdermal System|see Nicotine |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011404/
+Kruschen Salts|see Sodium Chloride |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0023618/
+Krystexxa|see Pegloticase |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0011624/
+Kuvan|see Sapropterin |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0012078/
+Kwell|see Lindane |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010954/
+Kybella|see Deoxycholic Acid |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0025432/
+Kyleena|see Levonorgestrel)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0001055/
+Kyleena|see Levonorgestrel |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010921/
+Kynamro|see Mipomersen |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014592/
+Kyprolis|see Carfilzomib |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0014320/
+Kytril|see Granisetron)|https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0000836/
+Kytril|see Granisetron |https://www.ncbi.nlm.nih.gov//pubmedhealth/PMHT0010506/
